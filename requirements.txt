@@ -1,15 +1,69 @@
+# langgraph
+# langchain
+# langchain-openai
+# langchain-google-genai
+# langchain-anthropic
+# langchain-ollama
+# tavily-python
+# firecrawl-py
+# playwright
+# beautifulsoup4
+# lxml
+# rapidfuzz
+# httpx
+# orjson
+# python-dotenv
+# pydantic
+# rich
+# tenacity
+# newspaper4k
+# trafilatura
+# tldextract
+# fake-useragent
+
 langgraph
 langchain
-langchain-community
+langchain-openai
+langchain-google-genai
+langchain-anthropic
 langchain-ollama
-ollama
+
 tavily-python
 google-search-results
+duckduckgo-search
+
+firecrawl-py
 crawl4ai
 playwright
-newspaper3k
-requests
-python-dotenv
+trafilatura
+newspaper4k
+readability-lxml
+
 beautifulsoup4
+selectolax
 lxml
-lxml_html_clean
+
+rapidfuzz
+tldextract
+
+httpx
+tenacity
+
+orjson
+pydantic
+pydantic-ai
+
+spacy
+
+redis
+aiosqlite
+
+fake-useragent
+
+python-dotenv
+rich
+
+playwright-stealth
+aiofiles
+uvloop
+requests

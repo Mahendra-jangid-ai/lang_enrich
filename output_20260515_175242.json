@@ -1,0 +1,180 @@
+{
+  "company": {
+    "legal_name": "Online Account Filing Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com/",
+    "domain": "debitam.com",
+    "company_number": "11422187",
+    "GST_number": "18AMVPD8179L1Z2",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2018-06-19",
+    "founded": "2018",
+    "previous_names": [],
+    "industry": "Accounting & Tax Services",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "69203"
+    ],
+    "description": "Online accounting and tax filing service that assists small businesses with compliance duties, including company accounts, tax returns, VAT, bookkeeping, and payroll services.",
+    "headquarters": {
+      "address": "42-44 Bishopsgate",
+      "city": "London",
+      "state": "England",
+      "postal_code": "EC2N 4AH",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "42-44 Bishopsgate",
+        "city": "London",
+        "state": "England",
+        "postal_code": "EC2N 4AH",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "+44 20 3960 5080",
+      "email": "info@debitam.com",
+      "support_email": "info@debitam.com"
+    },
+    "company_size": "Small",
+    "employee_count_estimate": "51-200",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/debitam"
+  },
+  "services": [
+    "Online accounting services",
+    "Company accounts & tax return filing",
+    "Confirmation statement services",
+    "Tax planning advice",
+    "VAT & bookkeeping services",
+    "Payroll services",
+    "Self-assessment tax return filing"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "Subscription-based accounting services",
+      "One-time filing fees",
+      "Tax planning and advisory services"
+    ],
+    "pricing_model": "Fixed-fee pricing (e.g., £399 for Company Accounts & Tax Return, £80 for Dormant Company Accounts)",
+    "customer_segments": [
+      "Small businesses",
+      "Limited companies",
+      "Sole traders",
+      "Freelancers",
+      "Landlords"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Dave Jangid",
+      "title": "CEO & Founder",
+      "linkedin_profile": "https://uk.linkedin.com/in/dave-jangid-0666884",
+      "email": "dave@debitam.com",
+      "phone": "+44 20 3960 5080"
+    },
+    {
+      "name": "Vijay Gandhi",
+      "title": "Co-founder",
+      "linkedin_profile": "https://uk.linkedin.com/in/vj-gandhi",
+      "email": "vijay@debitam.com"
+    },
+    {
+      "name": "Mohit Baheti",
+      "title": "Co-founder & Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/mohit-baheti-aa664b71",
+      "email": "mohit@debitam.com"
+    },
+    {
+      "name": "Aakash Bang",
+      "title": "Associate Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/aakash-bang-7b4931112",
+      "email": "aakash@debitam.com"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "Debitam Holding Limited",
+    "subsidiaries": [],
+    "related_companies": [
+      "Online Account Filing Limited"
+    ],
+    "investors": []
+  },
+  "financial_snapshot": {
+    "revenue": "£11.33M",
+    "profit": "£5.09M",
+    "cash_in_bank": "£5.09M",
+    "last_accounts_date": "2023-12-31",
+    "next_accounts_due": "2024-12-31"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "The Accountancy Partnership",
+        "description": "UK-based online accounting firm providing services to small businesses, sole traders, and limited companies.",
+        "website": "https://www.theaccountancy.co.uk/"
+      },
+      {
+        "name": "DNS Accountants",
+        "description": "UK accounting firm offering services to small businesses, contractors, and freelancers with a focus on online accounting solutions.",
+        "website": "https://www.dnsassociates.co.uk/"
+      },
+      {
+        "name": "Crunch",
+        "description": "Online accounting services for freelancers, contractors, and small businesses in the UK, combining software with human expertise.",
+        "website": "https://www.crunch.co.uk/"
+      }
+    ],
+    "market_position": "Growing online accounting service provider with strong Trustpilot ratings (4.9/5)"
+  },
+  "news": [
+    {
+      "title": "Busting myths around online accounting",
+      "summary": "Debitam addresses common misconceptions about online accounting, including security concerns and cost-effectiveness.",
+      "date": "2020-02-27",
+      "url": "https://www.debitam.com/online-accounting-busting-the-myths/"
+    },
+    {
+      "title": "How to manage cash flow for business survival",
+      "summary": "Insights on cash flow management for small businesses, explaining the difference between profit and cash flow.",
+      "date": "2023-07-16",
+      "url": "https://www.debitam.com/cash-flow-management/"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": 3382,
+    "trustpilot_rating": 4.9,
+    "trustpilot_reviews": 400
+  },
+  "ai_insights": {
+    "summary": "Debitam is a growing online accounting service provider with a strong market position in the UK small business sector. The company shows healthy financials with £11.33M in revenue and positive cash flow. They have a strong online presence and excellent customer reviews, indicating good business health and customer satisfaction.",
+    "growth_stage": "Growth",
+    "funding_stage": "Bootstrapped/Private",
+    "business_health_score": 85,
+    "confidence_score": 90
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "firecrawl",
+    "trafilatura",
+    "linkedin",
+    "apify",
+    "rss",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2024-05-15",
+    "data_completeness": 85,
+    "notes": [
+      "Company shows strong financial health with £11.33M revenue and £5.09M cash in bank",
+      "High customer satisfaction with 4.9/5 Trustpilot rating",
+      "Active in content marketing and thought leadership in accounting space"
+    ]
+  }
+}
