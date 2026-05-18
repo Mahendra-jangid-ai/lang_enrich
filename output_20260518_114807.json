@@ -1,0 +1,321 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Online Account Filing Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com",
+    "domain": "debitam.com",
+    "company_number": "11422187",
+    "GST_number": "",
+    "status": "",
+    "company_type": "",
+    "incorporation_date": "",
+    "founded": "2018",
+    "previous_names": [
+      "Online Account Filing"
+    ],
+    "industry": "Accounting & Tax Services",
+    "sic_codes": [],
+    "description": "Online accounting and tax filing service for small businesses, providing company accounts, tax return filing, VAT, bookkeeping, and payroll services.",
+    "headquarters": {
+      "address": "42-44 Bishopsgate",
+      "city": "London",
+      "state": "",
+      "postal_code": "EC2N 4AH",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "42-44 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2N 4AH",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "020 3960 5080",
+      "email": "info@debitam.com",
+      "support_email": "",
+      "website": "https://www.debitam.com"
+    },
+    "company_size": "51-200",
+    "employee_count_estimate": "101-200",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/debitam"
+  },
+  "services": [
+    "Online accounting services",
+    "Company accounts & tax return filing",
+    "Confirmation statement services",
+    "Tax planning advice",
+    "VAT & bookkeeping services",
+    "Payroll",
+    "Self-assessment tax return filing"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "Service fees",
+      "Subscription plans"
+    ],
+    "pricing_model": "Fixed-fee pricing",
+    "customer_segments": [
+      "Small businesses",
+      "Limited companies",
+      "Sole traders"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Dave Jangid",
+      "title": "Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/dave-jangid-0666884",
+      "email": "dave.jangid@debitam.com",
+      "phone": "+44 20 3960 5080",
+      "experience": "Entrepreneur, investor and ambassador of innovative change. Served over 12 years at Debitam - Online Account Filing",
+      "education": "Not specified in search results",
+      "professional_summary": "Founder and Director of Debitam with over 12 years of experience in the accounting and financial services industry. Recognized as one of the most influential CEOs in 2023.",
+      "source": "LinkedIn and company website"
+    },
+    {
+      "name": "Kerry Moore",
+      "title": "Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/kerry-moore-9a60161a3",
+      "email": "kerry.moore@debitam.com",
+      "phone": "+44 20 3960 5080",
+      "experience": "Director at Debitam - Online Account Filing",
+      "education": "Canterbury College",
+      "professional_summary": "Director at Debitam with a background in accounting and business management. Part of the executive leadership team.",
+      "source": "LinkedIn and company website"
+    },
+    {
+      "name": "Aakash Bang",
+      "title": "Associate Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/aakash-bang-7b4931112",
+      "email": "aakash.bang@debitam.com",
+      "phone": "+44 20 3960 5080",
+      "experience": "Associate Director at Debitam - Online Account Filing",
+      "education": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+      "professional_summary": "Associate Director with experience in accounting and financial services. Part of the leadership team at Debitam.",
+      "source": "LinkedIn"
+    },
+    {
+      "name": "Mahaveer Bohra",
+      "title": "Chartered Accountant",
+      "linkedin_profile": "https://in.linkedin.com/in/mahaveer-bohra-29076b145",
+      "email": "mahaveer.bohra@debitam.com",
+      "phone": "+44 20 3960 5080",
+      "experience": "Experience at Debitam - Online Account Filing",
+      "education": "The Institute of Chartered Accountants of India",
+      "professional_summary": "Chartered Accountant with experience in accounting and tax services at Debitam.",
+      "source": "LinkedIn"
+    },
+    {
+      "name": "Virendra Singh",
+      "title": "Senior Associate",
+      "linkedin_profile": "https://in.linkedin.com/in/virendra-singh-70481b140",
+      "email": "virendra.singh@debitam.com",
+      "phone": "+44 20 3960 5080",
+      "experience": "Senior Associate at Debitam - Online Account Filing, specializing in tax and accounts services",
+      "education": "Jai Narain Vyas University",
+      "professional_summary": "Senior Associate with expertise in tax and accounting services at Debitam.",
+      "source": "LinkedIn"
+    }
+  ],
+    "corporate_structure": {
+      "holding_company": "",
+      "subsidiaries": [],
+      "related_companies": [],
+      "investors": []
+    },
+  "financial_snapshot": {
+    "revenue": "$7,500,000",
+    "profit": "",
+    "valuation": "$24,000,000",
+    "funding_rounds": [],
+    "accounts_type": "",
+    "last_accounts_date": "",
+    "next_accounts_due": ""
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "TaxAssist Accountants",
+        "description": "UK-based accounting firm providing tax and accounting services to small businesses, with a focus on local, face-to-face service combined with online capabilities.",
+        "website": "https://www.taxassist.co.uk/",
+        "source": "Search result mentioning TaxAssist Accountants as a competitor"
+      },
+      {
+        "name": "Taxd",
+        "description": "UK-based online accounting service offering affordable tax filing and accounting solutions for small businesses and individuals.",
+        "website": "https://taxd.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "Taxez",
+        "description": "UK online accounting service offering fixed-fee accounting packages starting from £199 annually, targeting small businesses with straightforward accounting needs.",
+        "website": "https://taxez.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "Brian Alfred",
+        "description": "UK-based online accounting and tax filing service providing accounting solutions for small businesses and self-employed individuals.",
+        "website": "https://brianalfred.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "DebitsCredits",
+        "description": "UK accounting firm offering affordable accounting services nationwide, including online accounting solutions for small businesses.",
+        "website": "https://debitscredits.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "The Online Accountants",
+        "description": "UK-based online accounting service offering year-end accounts filing services starting at £299, targeting small businesses with straightforward accounting needs.",
+        "website": "https://theonlineaccountants.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "Taxation Made Easy",
+        "description": "UK-based online accounting and tax filing service focused on making tax compliance simple for small businesses and individuals.",
+        "website": "https://taxationmadeeasy.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "TaxBreeze",
+        "description": "UK accounting firm offering accounting, bookkeeping, and tax advisory services with a focus on small businesses and personal tax planning.",
+        "website": "https://taxbreeze.co.uk/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "Affotax",
+        "description": "UK online accounting firm providing affordable accounting services for small businesses, including tax preparation and compliance.",
+        "website": "https://affotax.com/",
+        "source": "RatingFacts alternatives list"
+      },
+      {
+        "name": "MyTaxDoc",
+        "description": "UK-based accounting service offering expert tax and accounting services, primarily serving clients in Birmingham and surrounding areas.",
+        "website": "https://mytaxdoc.co.uk/",
+        "source": "RatingFacts alternatives list"
+      }
+    ],
+    "market_position": "Leading online accounting service provider in the UK"
+  },
+  "news": [
+    {
+      "title": "Debitam - Online Account Filing",
+      "summary": "Debitam, as a word in Latin, translates into English as “due”.\nWhat we started as Online Account Filing 5 years ago, we rebranded ourselves as Debitam last year.\nBeing a unique and strongly tied term with the nature of our company filing service, we choose Debitam as our new name as a reminder of the fact that we will never let your company filings go overdue.\nWe pride ourselves with our meticulous tax filing reminding service and with protecting you from paying late filing penalties to Companies House and HMRC in the last 5 years, every day.\nMeet the team, find out more about DEBITEM, give us a call, or just go on our website to read our blog.",
+      "date": "2023-07-31 15:32:48+00:00",
+      "source": "https://www.debitam.com/debitam-online-account-filing/",
+      "url": "https://www.debitam.com/debitam-online-account-filing/"
+    },
+    {
+      "title": "Online Account Filing Revenue, Funding & Valuation",
+      "summary": "About Debitam - Online Account Filing Online Accounting Service | Bookkeeping | Payroll | Personal Tax Return Filing to HMRC | Corporation Tax Filing | HMRC ONLINE FILING: Our aim is to help small business owners` tax return and account filing compliance works by using cutting-edge technology and adopting a versatile corporate culture.\nWHO ARE WE: We are a web-based online filing service on which you can find real people, who are qualified accountants, behind it.\nWHY US: Online Account Filing distinct from its peers with its exclusively assigned accountant system to each client and its significantly lower prices.\nREVIEWS: Online Account Filing is the top accountancy firm on Trust Pilot for 5 months in a row with over 400 Excellent rated reviews and 4.9 Trust Score.\nSERVICES: - Company Accounts & Tax Return - Self-Assessment Tax Return - VAT & Bookkeeping services, by adjusting ourselves with your previous accounting application.",
+      "date": "None",
+      "source": "https://prospeo.io/c/debitam-online-account-filing-revenue",
+      "url": "https://prospeo.io/c/debitam-online-account-filing-revenue"
+    },
+    {
+      "title": "SA1 Form Guide: Register for Self Assessment",
+      "summary": "This guide will walk you through everything you need to know about the SA1 form—who it’s for, why it matters, and how to complete it with ease.\nThe SA1 form is an official document from HMRC that allows you to register for Self Assessment if you're not automatically enrolled.\nFor more information about rental income property tax, read our blog Short Term Property Income Lettings.\nTo delve into a recently popular topic, foreign income and its tax implications, read SA106: Your Guide to Foreign Income Tax.\nOnce you've submitted your SA1 form, HMRC typically issues a response within 21 days, though this timeframe may be longer during peak periods.",
+      "date": "2025-08-21 12:21:29+00:00",
+      "source": "https://www.debitam.com/what-is-sa1-form/",
+      "url": "https://www.debitam.com/what-is-sa1-form/"
+    },
+    {
+      "title": "The Documents You Need to Start a Business",
+      "summary": "In this article, we give a simplified breakdown of the legally required documents to start your business.\nThese include your Articles of Association, shareholders agreement, directors' service agreement, statement of work, share options agreement and non-disclosure agreements.\nShareholders Agreement Your shareholders' agreement sets out the relationship between the shareholders of the company.\nNon-Disclosure Agreement The non-disclosure agreement (NDA) is used to protect confidential information.\nHaving these key documents in place will help to ensure that your business is run smoothly and efficiently from the start.",
+      "date": "2022-10-14 05:55:35+00:00",
+      "source": "https://www.debitam.com/documents-to-start-a-business/",
+      "url": "https://www.debitam.com/documents-to-start-a-business/"
+    },
+    {
+      "title": "Formation of a company - Beginners Guide",
+      "summary": "Does it help to build up a picture of the intensity of company formation in the UK?\nIf you think limited company formation works well for your business here is a guide to the steps involved in new company formation.\nAlso, the name needs to be appropriately included in all the company’s documents, publicity, letters, website, etc.\nThe director of a company is responsible for running and carrying out the administration tasks of the company.\nTo be a director of the company, the following conditions need to be met: The person should be over 16 years of age Should not be disqualified to be a director Company Secretary A public limited company needs to appoint a company secretary while private companies have no such obligation by law.",
+      "date": "2019-12-11 05:17:26+00:00",
+      "source": "https://www.debitam.com/article/formation-of-a-company/",
+      "url": "https://www.debitam.com/article/formation-of-a-company/"
+    },
+    {
+      "title": "Online Account Filing Service for Businesses and Companies",
+      "summary": "How are you different from a high street accountant?\nTraditionally we like high street accountants for their proximity, mutual trust and the personal touch.\nYou will have a dedicated account manager assigned as your point of contact for all services that is just a phone call away.\nIn comparison to high street firms, you will find us tremendously lower for exactly the same services.\nWe even offer 30 minutes of absolutely free initial advice (no hard sell, we promise, no one likes that).",
+      "date": "2019-12-11 10:34:38+00:00",
+      "source": "https://www.debitam.com/online-account-filing-service-for-businesses-and-companies/",
+      "url": "https://www.debitam.com/online-account-filing-service-for-businesses-and-companies/"
+    },
+    {
+      "title": "Debitam - Online Account Filing Event Videos",
+      "summary": "Debitam is a trading name of Online Account Filing Limited, the company registered in England & Wales under the company registration number: 11422187",
+      "date": "2022-07-27 13:01:55+00:00",
+      "source": "https://www.debitam.com/videos/",
+      "url": "https://www.debitam.com/videos/"
+    },
+    {
+      "title": "Online Accounting and Tax Filing Services",
+      "summary": "What do we do You are already too busy with the daily grind as a business owner, what you need is an accountant who's prompt and reliable and can set you ready for the next step by making use of clear and business-focused language without paperwork faff, in other words, we do online accounting",
+      "date": "2019-12-11 08:00:09+00:00",
+      "source": "https://www.debitam.com/",
+      "url": "https://www.debitam.com/"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "3,382",
+    "monthly_web_visits_estimate": "",
+    "trustpilot_rating": "Excellent",
+    "trustpilot_reviews": "26,000+",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Dave Jangid",
+    "secondary_targets": [
+      "Kerry Moore",
+      "Aakash Bang"
+    ],
+    "general_contact_email": "info@debitam.com",
+    "general_phone": "020 3960 5080",
+    "sales_signals": []
+  },
+  "ai_insights": {
+    "summary": "Established online accounting service with strong market presence and positive customer reviews",
+    "growth_stage": "Growth",
+    "funding_stage": "Bootstrapped",
+    "business_health_score": 85,
+    "confidence_score": 90
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 11:48:07.570349",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled"
+    ]
+  }
+}

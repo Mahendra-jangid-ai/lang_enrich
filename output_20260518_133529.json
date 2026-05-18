@@ -1,0 +1,333 @@
+{
+  "person": {
+    "full_name": "Arihant Mehta",
+    "email": "arihant.mehta@actingoffice.com",
+    "current_company": "Acting Office",
+    "current_role": "Associate Director",
+    "location": "London Area, United Kingdom",
+    "linkedin_url": "https://uk.linkedin.com/in/arihantmehta",
+    "linkedin_headline": "Associate Director - Acting Office | Debitam | AFA | MIPA |",
+    "linkedin_about": "Experienced accounting professional and leader, passionate about automating processes and...",
+    "professional_summary": "Versatile professional with over 8 years of experience in software development, project management, and client services. Specializes in optimizing processes and bridging technology with compliance.",
+    "experience": [
+      {
+        "title": "Associate Director",
+        "company": "Acting Office",
+        "period": "Apr 2025 - Present"
+      },
+      {
+        "title": "Senior Account Manager",
+        "company": "Acting Office",
+        "period": "Jan 2023 - Apr 2025"
+      }
+    ],
+    "education": [
+      {
+        "degree": "ATC in Accounting and Business/Management",
+        "institution": "Institute of Public Accountants"
+      },
+      {
+        "degree": "ACCA"
+      },
+      {
+        "degree": "Bachelor of Commerce"
+      }
+    ],
+    "contact_info": {
+      "email": "arihant.mehta@actingoffice.com",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Acting Office Limited",
+    "brand_name": "Acting Office",
+    "website": "https://www.actingoffice.com",
+    "domain": "actingoffice.com",
+    "company_number": "14296520",
+    "GST_number": "",
+    "status": "Active",
+    "company_type": "Private limited Company",
+    "incorporation_date": "2022-08-15",
+    "founded": "2023",
+    "previous_names": [],
+    "industry": "Software Development, Accounting Technology",
+    "sic_codes": "62012",
+    "description": "Cloud-based accounting practice management platform that helps UK accounting firms manage client work, workflows, and reporting in one connected system.",
+    "headquarters": {
+      "address": "23 Camomile Street",
+      "city": "London",
+      "state": "England",
+      "postal_code": "EC3A 7LL",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "17 Bevis Marks",
+        "city": "London",
+        "postal_code": "EC3A 7LN",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "020 3835 6040",
+      "email": "support@actingoffice.com",
+      "support_email": "support@actingoffice.com",
+      "website": "https://www.actingoffice.com"
+    },
+    "company_size": "51-200",
+    "employee_count_estimate": "21-50",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/acting-office"
+  },
+  "services": [],
+  "products": [
+    "Accounting Practice Management Software",
+    "Tax Software",
+    "CRM",
+    "Payroll",
+    "Workflow Automation"
+  ],
+  "business_model": {
+    "revenue_streams": [
+      "Software Subscriptions"
+    ],
+    "pricing_model": "Subscription-based",
+    "customer_segments": [
+      "UK Accounting Firms",
+      "Bookkeepers",
+      "Finance Professionals"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Kenny MacAulay",
+      "title": "CEO",
+      "linkedin_profile": "https://uk.linkedin.com/in/kenny-macaulay-3251801",
+      "email": "kenny.macaulay@actingoffice.com",
+      "phone": "Not available",
+      "experience": "CEO of Acting Office, leading mission to redefine how accountancy firms operate",
+      "education": "Britannia Royal Naval College",
+      "professional_summary": "As CEO of Acting Office, I lead our mission to redefine how accountancy firms operate and...",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Mohit Baheti",
+      "title": "Co-founder & COO",
+      "linkedin_profile": "https://uk.linkedin.com/in/mohit-baheti-aa664b71",
+      "email": "mohit.baheti@actingoffice.com",
+      "phone": "Not available",
+      "experience": "Co-founder & COO at Acting Office, experienced planner and leader specializing in process optimization with technology",
+      "education": "Not specified in search results",
+      "professional_summary": "Experienced planner, leader and a specialist at optimising and re-defining processes with the use of technology.",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Dave Jangid",
+      "title": "Director",
+      "linkedin_profile": "Not available in search results",
+      "email": "dave.jangid@actingoffice.com",
+      "phone": "Not available",
+      "experience": "Director at Acting Office",
+      "education": "Not specified in search results",
+      "professional_summary": "Not available in search results",
+      "source": "Acting Office About page"
+    },
+    {
+      "name": "Mark McNee",
+      "title": "Not specified",
+      "linkedin_profile": "https://uk.linkedin.com/in/mark-mcnee",
+      "email": "Not available",
+      "phone": "Not available",
+      "experience": "Experience at Acting Office",
+      "education": "Not specified in search results",
+      "professional_summary": "Not available in search results",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Jaswant Jangid",
+      "title": "Not specified",
+      "linkedin_profile": "https://uk.linkedin.com/in/jaswant-jangid-abb7b483",
+      "email": "Not available",
+      "phone": "Not available",
+      "experience": "Experience at Acting Office",
+      "education": "University of Westminster",
+      "professional_summary": "Not available in search results",
+      "source": "LinkedIn profile"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": [
+      "Debitam",
+      "Capium"
+    ],
+    "investors": "No clear investor information found in the provided search results for Acting Office Limited. The search results mention the company's directors and operations but do not specify any external investors."
+  },
+  "financial_snapshot": {
+    "revenue": "$10.60",
+    "profit": "17.50",
+    "valuation": "",
+    "funding_rounds": "0",
+    "accounts_type": "Private limited Company",
+    "last_accounts_date": "31 December 2024",
+    "next_accounts_due": "30 September 2026"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Karbon",
+        "description": "Cloud-based practice management software for accounting firms with features like workflow automation, CRM, and client portal",
+        "website": "https://karbonhq.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "TaxDome",
+        "description": "Practice management platform built specifically for accountants, bookkeepers, and tax professionals with client portal and document management",
+        "website": "https://taxdome.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Financial Cents",
+        "description": "Accounting practice management software with workflow automation, time tracking, and client portal features",
+        "website": "https://financialcents.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Jetpack Workflow",
+        "description": "Workflow management software designed specifically for accounting firms with task management and deadline tracking",
+        "website": "https://jetpackworkflow.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Canopy",
+        "description": "Cloud-based practice management solution for accounting firms with client management and document storage",
+        "website": "https://www.canopytax.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Thomson Reuters Practice CS",
+        "description": "Comprehensive practice management solution for accounting firms with workflow and time/billing features",
+        "website": "https://tax.thomsonreuters.com/en/practice-cs",
+        "source": "Search results"
+      },
+      {
+        "name": "Aiwyn",
+        "description": "AI-powered practice automation platform for larger CPA firms with billing and collections features",
+        "website": "https://www.aiwyn.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "IRIS",
+        "description": "Integrated suite of accounting software solutions including practice management for UK accounting firms",
+        "website": "https://www.iris.co.uk/",
+        "source": "Search results"
+      },
+      {
+        "name": "BrightManager",
+        "description": "Practice management software for accounting firms with client onboarding and workflow automation",
+        "website": "https://www.brightmanager.co.uk/",
+        "source": "Search results"
+      },
+      {
+        "name": "Senta",
+        "description": "Cloud-based practice management platform with client portal and document management features",
+        "website": "https://www.senta.co/",
+        "source": "Search results"
+      }
+    ],
+    "market_position": "Emerging player in UK accounting practice management software"
+  },
+  "news": [
+    {
+      "title": "Meet the Acting Office Team & Mission for UK Firms",
+      "summary": "Kenny brings a rich, well-rounded understanding of the industry and is known for his strategic insight and unparalleled knowledge of its workings.\nBeyond his professional life, Kenny is passionate about value investing and supporting business growth, including successfully investing in and producing bespoke malt whiskies.\nIn his leisure time, Kenny enjoys playing golf, albeit not as proficiently as his other endeavors.\nDave Jangid Director An extraordinary entrepreneur, investor, and champion of innovative change with over two decades of invaluable experience in Accounting and Fintech.\nHe returns to London from Australia with a wealth of experience in client relationships, professional networking and team management.",
+      "date": "2023-06-30 09:58:00+00:00",
+      "source": "https://www.actingoffice.com/about/",
+      "url": "https://www.actingoffice.com/about/"
+    },
+    {
+      "title": "Acting Office Email Formats",
+      "summary": "About Acting Office At Acting Office we provide a bespoke “one-stop” software solution for medium-sized accounting practices.\nEnhance productivity and track billable client hours with extreme accuracy.\nEmail integration, phone integration, task management, timesheets, deadline reminders, canned messages and data storage all in the one place saves time and money.\nOur cloud-based software gives you flexibility and ease of access to work from any location and any device.",
+      "date": "None",
+      "source": "https://prospeo.io/c/acting-office-email-format",
+      "url": "https://prospeo.io/c/acting-office-email-format"
+    },
+    {
+      "title": "Arihant Mehta - Associate Director at Debitam",
+      "summary": "Arihant Mehta is a seasoned accounting professional with extensive experience in account management and compliance.\nCurrently serving as a Senior Account Manager at Acting Office since January 2023, Arihant specializes in optimizing accounting practices through advanced software solutions.\nPrior to this role, Arihant held a similar position at Debitam, where services were provided to over 25,000 UK businesses for their annual compliance needs.\nEarlier experience includes an Accounting Associate role at Capsitech IT Services and positions as Article Assistant at both Mehta Singhvi & Associates and Chaturvedi & Shah.\nArihant's educational background includes an ATC in Accounting and Business/Management from the Institute of Public Accountants, an ACCA, and a Bachelor of Commerce degree from Jai Narain Vyas University.",
+      "date": "None",
+      "source": "https://theorg.com/org/debitam/org-chart/arihant-mehta",
+      "url": "https://theorg.com/org/debitam/org-chart/arihant-mehta"
+    },
+    {
+      "title": "Acting Office helps Caroola Accountancy grow smarter",
+      "summary": "Growth mode activated by Acting Office What happens when a leading accountancy group partners with Acting Office?\n🧩 “It was like plugging in a missing piece of the puzzle.” That’s how Andy and the team at Caroola Accountancy describes their journey with us and we couldn’t be prouder.\nIn this short video, hear directly from the Caroola leadership on how Acting Office became an extension of their in-house team, helping them scale smarter, not harder.\nThat’s where we come in seamlessly integrating into your workflows, streamlining internal processes, and giving you the bandwidth to lead, grow, and innovate.\nAnd we needed to do something about that because our whole objective is a business is to grow our market share.",
+      "date": "2025-04-29 10:05:38.439000+00:00",
+      "source": "https://www.linkedin.com/posts/acting-office_caroola-actingoffice-accountingautomation-activity-7322924014761295872-2TLf",
+      "url": "https://www.linkedin.com/posts/acting-office_caroola-actingoffice-accountingautomation-activity-7322924014761295872-2TLf"
+    },
+    {
+      "title": "#fab26 #fab26 #accounting #finance #networking #startups #events #actingoffice #erp",
+      "summary": "Both events brought together incredible professionals from across the accounting and finance space, and it was a pleasure to be part of such a dynamic environment.\nWe had some truly insightful conversations, met a wide range of talented individuals, and built valuable new connections along the way.\nAs Acting Office steps out of stealth mode this year, these exhibitions mark a significant milestone for us.\nThis is just the beginning; you will be seeing us at many more key events across the accountancy world.\nKenny MacAulay Mohit Baheti Dave Jangid Mark McNee Divyang Singhvi Rishi Ruparelia David Kerr #FAB26 #Accounting #Finance #Networking #Startups #Events #ActingOffice #ERP",
+      "date": "2026-03-20 12:49:34.883000+00:00",
+      "source": "https://www.linkedin.com/posts/arihantmehta_fab26-fab26-accounting-activity-7440741328075898881-zxAN",
+      "url": "https://www.linkedin.com/posts/arihantmehta_fab26-fab26-accounting-activity-7440741328075898881-zxAN"
+    },
+    {
+      "title": "I’m excited to share that I’ve joined Acting Office as Strategic Partnerships Manager Acting Office is rethinking how accounting firms operate with an all-in-one, AI-powered platform that brings…",
+      "summary": "I’m excited to share that I’ve joined Acting Office as Strategic Partnerships Manager Acting Office is rethinking how accounting firms operate with an all-in-one, AI-powered platform that brings everything into one place Looking forward to connecting with partners and excited for what’s ahead!",
+      "date": "2026-04-15 17:38:52.094000+00:00",
+      "source": "https://www.linkedin.com/posts/thomas-white-52725b27_im-excited-to-share-that-ive-joined-acting-activity-7450236214034640896-s3pC",
+      "url": "https://www.linkedin.com/posts/thomas-white-52725b27_im-excited-to-share-that-ive-joined-acting-activity-7450236214034640896-s3pC"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "1,376",
+    "monthly_web_visits_estimate": "Not available",
+    "trustpilot_rating": "3.5",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": "Not found"
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Kenny MacAulay, CEO",
+    "secondary_targets": [
+      "Mohit Baheti, COO",
+      "Mark McNee, Commercial Director"
+    ],
+    "general_contact_email": "support@actingoffice.com",
+    "general_phone": "020 3835 6040",
+    "sales_signals": [
+      "Recent expansion",
+      "New client wins",
+      "Event participation"
+    ]
+  },
+  "ai_insights": {
+    "summary": "Acting Office is an emerging player in the accounting practice management software space, showing signs of growth and market validation through client wins and event participation.",
+    "growth_stage": "Growth",
+    "funding_stage": "Unknown",
+    "business_health_score": 75,
+    "confidence_score": 85
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 13:35:29.849831",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled",
+      "LLM retry enrichment enabled",
+      "Hypothesis search enabled"
+    ]
+  }
+}

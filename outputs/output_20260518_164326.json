@@ -1,0 +1,318 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Online Account Filing Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com/",
+    "domain": "debitam.com",
+    "company_number": "11422187",
+    "GST_number": "",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2018-06-19",
+    "founded": "2018",
+    "previous_names": [
+      "Online Account Filing"
+    ],
+    "industry": "Accounting",
+    "sic_codes": "8721",
+    "description": "Online accounting and tax filing service for small businesses, providing company accounts, tax returns, self-assessment, VAT, bookkeeping, CIS compliance, payroll, and confirmation statements.",
+    "headquarters": {
+      "address": "42-44 Bishopsgate",
+      "city": "London",
+      "state": "Wisconsin",
+      "postal_code": "EC2N 4AH",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "42-44 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2N 4AH",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "020 3960 5080",
+      "email": "info@debitam.com",
+      "support_email": "",
+      "website": "https://www.debitam.com/"
+    },
+    "company_size": "82 employees",
+    "employee_count_estimate": "82",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/debitam"
+  },
+  "services": [
+    "Company accounts & tax return filing",
+    "Self-assessment tax return filing",
+    "VAT & bookkeeping services",
+    "Confirmation statement services",
+    "Tax planning advice",
+    "Payroll services",
+    "CIS compliance works",
+    "Online accounting services"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "Service fees for accounting and tax filing"
+    ],
+    "pricing_model": "Fixed pricing (e.g., Company Accounts & Tax Return @ £399, Dormant Company Accounts @ £80)",
+    "customer_segments": [
+      "Small businesses",
+      "Limited companies",
+      "Sole traders",
+      "Self-employed individuals",
+      "Landlords"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Shivansh Chaturvedi",
+      "title": "Senior Associate",
+      "linkedin_profile": "https://in.linkedin.com/in/shivansh-chaturvedi-569692137",
+      "email": "Not available",
+      "phone": "Not available",
+      "experience": [
+        "Senior Associate at Debitam - Online Account Filling"
+      ],
+      "professional_summary": "Senior associate at Debitam - Online Account Filling with ACCA education background. Based in the United Kingdom with 500+ connections.",
+      "source": "LinkedIn"
+    },
+    {
+      "name": "Harish Rathi",
+      "title": "Postgraduate Student",
+      "linkedin_profile": "https://in.linkedin.com/in/harish-rathi-24aa1b196",
+      "email": "Not available",
+      "phone": "Not available",
+      "experience": [
+        "Working on Debitam online account filling (Feb 2025 - Present)",
+        "Assistant Manager at PINK CITY FINCAP PVT LTD"
+      ],
+      "professional_summary": "Postgraduate student at Jai Narain Vyas University with experience working on Debitam online account filling. Previously served as Assistant Manager at PINK CITY FINCAP PVT LTD.",
+      "source": "LinkedIn"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": [],
+    "investors": []
+  },
+  "financial_snapshot": {
+    "revenue": "USD 7.5 million",
+    "profit": "",
+    "valuation": "",
+    "funding_rounds": [],
+    "accounts_type": "",
+    "last_accounts_date": "",
+    "next_accounts_due": ""
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Ezytaxonline",
+        "description": "Online tax and accounting services for small businesses",
+        "website": "https://www.ezytaxonline.co.uk/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Expattaxonline",
+        "description": "Specialized tax services for expatriates and small businesses",
+        "website": "https://www.expattaxonline.co.uk/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "1800accountant",
+        "description": "Nationwide accounting firm offering bookkeeping, tax preparation, and consulting",
+        "website": "https://www.1800accountant.com/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "The Accountancy Partnership",
+        "description": "Online accounting services for small businesses and limited companies",
+        "website": "https://www.theaccountancy.co.uk/",
+        "source": "Trustpilot"
+      },
+      {
+        "name": "Gorilla Accounting",
+        "description": "Online accounting services for contractors and small businesses",
+        "website": "https://www.gorillaaccounting.com/",
+        "source": "Trustpilot"
+      },
+      {
+        "name": "Tax Driven Accountants",
+        "description": "Specialized tax and accounting services for contractors and small businesses",
+        "website": "https://www.taxdriven.co.uk/",
+        "source": "Trustpilot"
+      },
+      {
+        "name": "TWB Accountants",
+        "description": "Accounting services specializing in eCommerce businesses",
+        "website": "https://www.twbaccountants.co.uk/",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "Pearl Chartered Accountants",
+        "description": "Accounting services for eCommerce, SMEs and contractors",
+        "website": "https://www.pearlaccountants.co.uk/",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "SJPR Accountants",
+        "description": "Comprehensive accounting services with strategic business advice",
+        "website": "https://www.sjprac.com/",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "Your Ecommerce Accountant",
+        "description": "Specialized eCommerce accounting services across the UK",
+        "website": "https://yourecommerceaccountant.co.uk/",
+        "source": "LinkMyBooks"
+      }
+    ],
+    "market_position": "Positioned as a cost-effective online accounting service with assigned accountants for each client"
+  },
+  "news": [
+    {
+      "title": "#accounting #smeuk #corporationtax",
+      "summary": "What actually causes problems later: • Transactions posted to the wrong accounts • Director payments not clearly labelled • VAT returns filed without a proper review • Balance sheet figures never questioned Individually, these feel minor.\nClean bookkeeping isn’t about perfection.\nIf you’re a director, ask yourself one thing: Would your numbers still make sense if HMRC asked questions tomorrow?\n#UK",
+      "date": "2025-11-26 09:25:07.425000+00:00",
+      "url": "https://www.linkedin.com/posts/debitam_accounting-smeuk-corporationtax-activity-7399377657982894080-K2pl",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Debitam - Online Account Filing",
+      "summary": "The rules of exit strategy for UK businesses have changed, business assert disposal relief has gone up and its impact is already felt.\nThat means: → One combined tax bill → One VAT threshold across all your ventures → One Trading Allowance.\nReliefs are now capped Agricultural Property Relief (APR) and Business Property Relief (BPR) are no longer unlimited.\n🚨 Some businesses are receiving scam lett",
+      "date": "2026-05-18 08:51:32.900000+00:00",
+      "url": "https://uk.linkedin.com/company/debitam",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Online Account Filing Revenue, Funding & Valuation",
+      "summary": "About Debitam - Online Account Filing Online Accounting Service | Bookkeeping | Payroll | Personal Tax Return Filing to HMRC | Corporation Tax Filing | HMRC ONLINE FILING: Our aim is to help small business owners` tax return and account filing compliance works by using cutting-edge technology and adopting a versatile corporate culture.\nWHO ARE WE: We are a web-based online filing service on which ",
+      "date": "None",
+      "url": "https://prospeo.io/c/debitam-online-account-filing-revenue",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Formation of a company - Beginners Guide",
+      "summary": "Does it help to build up a picture of the intensity of company formation in the UK?\nIf you think limited company formation works well for your business here is a guide to the steps involved in new company formation.\nAlso, the name needs to be appropriately included in all the company’s documents, publicity, letters, website, etc.\nThe director of a company is responsible for running and carrying ou",
+      "date": "2019-12-11 05:17:26+00:00",
+      "url": "https://www.debitam.com/article/formation-of-a-company/",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Online accounting help",
+      "summary": "Cash basis of accounting deals with recognising revenues- when cash is actually received and expenses- when cash is actually paid.\nIf you've never registered for self-assessment with HMRC ever before, then you need to register for it online on gov.uk website.\nOnce you register, HMRC will set up your self-assessment online service account and send you a letter with your UTR.\nYou need to re-register",
+      "date": "2020-01-20 14:53:57+00:00",
+      "url": "https://www.debitam.com/faq/",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "How to Make Payments on Account",
+      "summary": "(Payment on Account) Do I need to make payments on account?\nPayments on Account is just one of them.\nWhen do I need to make Payments on the Account?\nIn other words, after PAYE deductions if you are still obliged to pay more than £1000 you`ll have to enroll with Payments on Account.\nHow to pay my Payments on Account?",
+      "date": "2019-06-28 15:00:40+00:00",
+      "url": "https://www.debitam.com/article/how-to-make-payments-on-account/",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Debitam: Online Accounting and Tax Filing Services",
+      "url": "https://www.debitam.com/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "UK Tax Changes 2026: 5 Costly Updates Every Business ... - Debitam",
+      "url": "https://www.debitam.com/5-big-tax-changes-in-2026/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "April 2026 Minimum Wage Increase: Is Your Business Ready?",
+      "url": "https://www.debitam.com/2026-minimum-wage-increase-how-to-be-prepared/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "Sahamati Secures ₹50 Crore from 25+ Institutions to Power Next Wave of Financial Inclusion - Sahamati",
+      "url": "https://sahamati.org.in/media-article/sahamati-raises-50-crore-financial-inclusion/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "Sahamati secures Rs 50 crore in funding from large banks, AMCs, stockbrokers and fintechs - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/funding/sahamati-secures-rs-50-crore-in-funding-from-large-banks-amcs-stockbrokers-and-fintechs/articleshow/130569794.cms",
+      "summary": "",
+      "source": "exa_news"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "",
+    "monthly_web_visits_estimate": "",
+    "trustpilot_rating": "4.9",
+    "trustpilot_reviews": "400",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Shivansh Chaturvedi",
+    "secondary_targets": [
+      "Dave Jangid, Chairman & Founder"
+    ],
+    "general_contact_email": "info@debitam.com",
+    "general_phone": "020 3960 5080",
+    "sales_signals": [
+      "Recent social media activity around #accounting and #smeuk indicates active market engagement",
+      "Expansion into multiple service lines (VAT, payroll, CIS compliance) shows service diversification",
+      "Presence in both UK and Indian markets suggests international growth strategy",
+      "Recent news about revenue and valuation could indicate preparation for funding or acquisition"
+    ]
+  },
+  "ai_insights": {
+    "summary": "Debitam is a UK-based online accounting and tax filing service provider for small businesses, founded in 2018. The company offers comprehensive accounting services including tax returns, VAT, bookkeeping, and payroll, with a focus on personalized service through dedicated accountants. With $7.5M in annual revenue and 82 employees, they operate in both the UK and India.",
+    "growth_stage": "Growth",
+    "funding_stage": "Bootstrapped/Private",
+    "business_health_score": 7,
+    "confidence_score": 8
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "serper",
+    "exa",
+    "crawl4ai",
+    "jina_reader",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18T16:43:26.138631",
+    "data_completeness": 83,
+    "duplicate_flags": [],
+    "notes": [
+      "Enterprise Enrichment v3.0 — triple-engine search",
+      "Search: Tavily + SerpAPI + Serper | People/Co: Exa AI",
+      "Plan: broad",
+      "Decision makers: 2",
+      "Competitors: 10",
+      "News: 11"
+    ]
+  }
+}

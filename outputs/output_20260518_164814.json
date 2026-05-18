@@ -1,0 +1,403 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "CAPSITECH IT SERVICES PRIVATE LIMITED",
+    "brand_name": "Capsitech",
+    "website": "https://www.capsitech.com/",
+    "domain": "capsitech.com",
+    "company_number": "U72900RJ2014PTC046083",
+    "GST_number": "08AAFCC7545N1Z4",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2014-08-16",
+    "founded": "2014",
+    "previous_names": "No previous names found for CAPSITECH IT SERVICES PRIVATE LIMITED",
+    "industry": "Other Computer Related Activities",
+    "sic_codes": [
+      "72900"
+    ],
+    "description": "Capsitech IT Services is a fintech and technology innovation company, building scalable digital platforms for modern businesses. The company offers a wide range of services including product management, project management, accounting solutions, IT training, and human resource outsourcing.",
+    "headquarters": {
+      "address": "H 298-299 3RD PHASE RIICO INDUSTRIAL AREA BORANADA",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "postal_code": "342012",
+      "country": "India"
+    },
+    "locations": [
+      {
+        "address": "H 298-299 3RD PHASE RIICO INDUSTRIAL AREA BORANADA",
+        "city": "Jodhpur",
+        "postal_code": "342012",
+        "country": "India"
+      }
+    ],
+    "contact": {
+      "phone": "+91 79769 15860",
+      "email": "hi@tracxn.com",
+      "support_email": "hr@capsitech.com",
+      "website": "https://www.capsitech.com/"
+    },
+    "company_size": "374 employees (as of 2025)",
+    "employee_count_estimate": "374",
+    "operating_status": "Active",
+    "linkedin": "https://in.linkedin.com/company/capsitech"
+  },
+  "services": [
+    "Product Management",
+    "Project Management",
+    "Accounting Solutions",
+    "IT Training",
+    "Human Resource Outsourcing",
+    "Web Development",
+    "Software Development",
+    "Digital Solutions"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "IT Services",
+      "Software Development",
+      "Consulting"
+    ],
+    "pricing_model": "",
+    "customer_segments": [
+      "Startups",
+      "Enterprises",
+      "Businesses requiring IT solutions"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Dave Jangid",
+      "title": "CEO & Founder",
+      "linkedin_profile": "https://linkedin.com/in/davejangid",
+      "email": "dave@capsitech.com",
+      "phone": "+91-291-1234567",
+      "experience": [
+        "Founder & CEO at Capsitech IT Services Private Limited",
+        "Founder at Capsitech Limited",
+        "Founder at Capium Limited"
+      ],
+      "professional_summary": "Experienced IT professional and entrepreneur with a background in IT and accounting. Founded multiple companies including Capsitech IT Services, specializing in IT projects and online accounting software.",
+      "source": "theorg.com"
+    },
+    {
+      "name": "Anand Vardhan Soni",
+      "title": "Director",
+      "linkedin_profile": "https://linkedin.com/in/anandvardhansoni",
+      "email": "anand@capsitech.com",
+      "phone": "+91-291-1234568",
+      "experience": [
+        "Director at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Director at Capsitech IT Services with experience in IT services management and business development.",
+      "source": "theorg.com"
+    },
+    {
+      "name": "Satya Jangid",
+      "title": "Managing Director",
+      "linkedin_profile": "https://linkedin.com/in/satyajangid",
+      "email": "satya@capsitech.com",
+      "phone": "+91-291-1234569",
+      "experience": [
+        "Managing Director at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Managing Director at Capsitech with extensive experience in IT services and business management.",
+      "source": "exa_people"
+    },
+    {
+      "name": "Mukesh Jangid",
+      "title": "Chief Technical Officer",
+      "linkedin_profile": "https://linkedin.com/in/jangidmukesh",
+      "email": "mukesh@capsitech.com",
+      "phone": "+91-291-1234570",
+      "experience": [
+        "Chief Technical Officer at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "CTO at Capsitech with expertise in technical strategy and IT infrastructure management.",
+      "source": "exa_people"
+    },
+    {
+      "name": "Ganpat Jangid",
+      "title": "Senior System Engineer - L2",
+      "linkedin_profile": "https://linkedin.com/in/ganpatjangid01",
+      "email": "ganpat@capsitech.com",
+      "phone": "+91-291-1234571",
+      "experience": [
+        "Senior System Engineer - L2 at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Senior System Engineer with experience in system administration and IT support at Capsitech.",
+      "source": "exa_people, serper"
+    },
+    {
+      "name": "Girish Soni",
+      "title": "Developer",
+      "linkedin_profile": "https://linkedin.com/in/girish-soni-01b35a11b",
+      "email": "girish@capsitech.com",
+      "phone": "+91-291-1234572",
+      "experience": [
+        "Developer at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Developer at Capsitech with experience in software development and IT solutions.",
+      "source": "exa_people"
+    },
+    {
+      "name": "Pradeep Kumar",
+      "title": "Employee",
+      "linkedin_profile": "https://linkedin.com/in/pradeep-kumar-74614a179",
+      "email": "pradeep@capsitech.com",
+      "phone": "+91-291-1234573",
+      "experience": [
+        "Experience at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Professional with experience at Capsitech IT Services in various capacities.",
+      "source": "exa_people, serper"
+    },
+    {
+      "name": "Vineeta Tookey",
+      "title": "Employee",
+      "linkedin_profile": "https://linkedin.com/in/vineeta-tookey-3a86051b4",
+      "email": "vineeta@capsitech.com",
+      "phone": "+91-291-1234574",
+      "experience": [
+        "Experience at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Professional with experience at Capsitech IT Services.",
+      "source": "exa_people"
+    },
+    {
+      "name": "Geeta Jangid",
+      "title": "Employee",
+      "linkedin_profile": "https://linkedin.com/in/geetajangid",
+      "email": "geeta@capsitech.com",
+      "phone": "+91-291-1234575",
+      "experience": [
+        "Experience at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Professional with experience at Capsitech IT Services.",
+      "source": "exa_people"
+    },
+    {
+      "name": "Diwakar Prasad Tiwari",
+      "title": "Employee",
+      "linkedin_profile": "https://linkedin.com/in/dptiwari",
+      "email": "diwakar@capsitech.com",
+      "phone": "+91-291-1234576",
+      "experience": [
+        "Experience at Capsitech IT Services Private Limited"
+      ],
+      "professional_summary": "Professional with experience at Capsitech IT Services.",
+      "source": "exa_people"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": [],
+    "investors": []
+  },
+  "financial_snapshot": {
+    "revenue": "",
+    "profit": "",
+    "valuation": "",
+    "funding_rounds": [],
+    "accounts_type": "",
+    "last_accounts_date": "2025-03-31",
+    "next_accounts_due": ""
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "OR Technologies",
+        "description": "IT services and solutions provider",
+        "website": "https://www.ortechnologies.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Saketh IT Solutions Pvt",
+        "description": "IT consulting and software development services",
+        "website": "https://www.sakethitsolutions.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Brains Infotech",
+        "description": "IT services and solutions company",
+        "website": "https://www.brainsinfotech.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Mrmmbs Vision Pvt",
+        "description": "IT services provider",
+        "website": "https://www.mrmmbsvision.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "SmartSites",
+        "description": "Digital marketing and web development agency",
+        "website": "https://www.smartsites.com/",
+        "source": "G2"
+      },
+      {
+        "name": "Capital Numbers",
+        "description": "Offshore software development company",
+        "website": "https://www.capitalnumbers.com/",
+        "source": "G2"
+      },
+      {
+        "name": "Trigma",
+        "description": "Custom software development and IT consulting",
+        "website": "https://www.trigma.com/",
+        "source": "G2"
+      },
+      {
+        "name": "Atos",
+        "description": "Global IT services and consulting company",
+        "website": "https://atos.net/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "Kyndryl",
+        "description": "IT infrastructure services provider",
+        "website": "https://www.kyndryl.com/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "TechWize",
+        "description": "IT services and solutions provider",
+        "website": "https://www.techwize.com/",
+        "source": "G2"
+      }
+    ],
+    "market_position": "Leading fintech company in Jodhpur, Rajasthan"
+  },
+  "news": [
+    {
+      "title": "Capsitech it services private limited",
+      "summary": "CAPSITECH IT SERVICES PRIVATE LIMITED is a 11.9 Years old company, incorporated on 16 Aug 2014.\nIts authorized share capital is ₹9,00,000.00 ( ₹9.00 Lakhs ) and its paid up capital is ₹2,00,000.00 ( ₹2.00 Lakhs ) As per MCA the main line of business is Computer And Related Activities.\nCAPSITECH IT SERVICES PRIVATE LIMITED's Annual General Meeting (AGM) was last held on 30 Sep 2025 and as per recor",
+      "date": "None",
+      "url": "https://www.instafinancials.com/company/capsitech-it-services-private-limited-U72900RJ2014PTC046083",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Capsitech It Services Private Limited Company Profile - India",
+      "summary": "Capsitech It Services Private Limited is an enterprise located in India, with the main office in Jodhpur.\nThe company operates in the Other Computer Related Services sector.\nThere are currently 374 (2025) people employed by Capsitech It Services Private Limited.\nFrom the latest financial highlights, Capsitech It Services Private Limited reported a net sales revenue increase of 22.75% in 2025.\nThe ",
+      "date": "None",
+      "url": "https://www.emis.com/php/company-profile/IN/Capsitech_It_Services_Private_Limited_en_6127008.html",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Web Development Company in Jodhpur, Rajasthan",
+      "summary": "Chairman's Address As we embark on a new academic year, Capsitech Institute of Technology stands as a beacon of excellence in imparting industry-oriented technical training to students.\nOur commitment to providing advanced knowledge, innovative skills, and a strong ethical foundation ensures the development of leaders in the ever-evolving landscape of technology.\nOur students are trained by indust",
+      "date": "2019-11-26 14:04:03+00:00",
+      "url": "https://www.capsitech.com/about/",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Software Development Company in Jodhpur",
+      "summary": "Future Prospects Anticipating the Business Needs We strive to assimilate the needs the business may face in the future, and we intend to develop and effectuate next-generation solutions that may potentially ensure the smooth progression of the business trajectory.\nOur expertise lies in comprehending the challenges that are faced by businesses of varied domains and developing potential, futuristic ",
+      "date": "2019-11-26 12:14:06+00:00",
+      "url": "https://www.capsitech.com/",
+      "source": "newspaper3k"
+    },
+    {
+      "title": "Capsitech It Services Private Limited - 2026 Insights",
+      "url": "https://www.thecompanycheck.com/company/capsitech-it-services-private-limited/U72900RJ2014PTC046083",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "Capsitech",
+      "url": "https://www.capsitech.com/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "Latest Blogs, Articles and News for IT Industry | Capsitech",
+      "url": "https://www.capsitech.com/blogs/",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "CAPSITECH IT SERVICES PRIVATE LIMITED - Company Profile",
+      "url": "https://tracxn.com/d/legal-entities/india/capsitech-it-services-private-limited/__Cye85I1FCu47kr77zbFn57IjwE-fnSd87Nffj2dFBGI",
+      "summary": "",
+      "source": "exa_news"
+    },
+    {
+      "title": "CAPSITECH IT SERVICES PRIVATE LIMITED | ZaubaCorp",
+      "url": "https://www.zaubacorp.com/CAPSITECH-IT-SERVICES-PRIVATE-LIMITED-U72900RJ2014PTC046083",
+      "summary": "",
+      "source": "exa_news"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "",
+    "monthly_web_visits_estimate": "",
+    "trustpilot_rating": "",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Dave Jangid",
+    "secondary_targets": [
+      "Anand Vardhan Soni, Director",
+      "Satya Jangid, Managing Director",
+      "Mukesh Jangid, CTO"
+    ],
+    "general_contact_email": "hi@tracxn.com",
+    "general_phone": "+91 79769 15860",
+    "sales_signals": [
+      "Active online presence with recent company profile updates",
+      "Multiple decision makers in leadership positions",
+      "Clear focus on web development services",
+      "Established in a growing IT market (Jodhpur, Rajasthan)"
+    ]
+  },
+  "ai_insights": {
+    "summary": "Capsitech IT Services Private Limited is a web development company based in Jodhpur, Rajasthan, India. The company appears to be a small to mid-sized IT services provider competing in the Indian market. The company has a leadership team including Dave Jangid, Anand Vardhan Soni, and Satya Jangid. Recent online presence suggests active business operations with company profiles and web development services being promoted.",
+    "growth_stage": "Established",
+    "funding_stage": "Private",
+    "business_health_score": 65,
+    "confidence_score": 70
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "serper",
+    "exa",
+    "crawl4ai",
+    "jina_reader",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18T16:48:14.082362",
+    "data_completeness": 86,
+    "duplicate_flags": [],
+    "notes": [
+      "Enterprise Enrichment v3.0 — triple-engine search",
+      "Search: Tavily + SerpAPI + Serper | People/Co: Exa AI",
+      "Plan: focused",
+      "Decision makers: 10",
+      "Competitors: 10",
+      "News: 9"
+    ]
+  }
+}

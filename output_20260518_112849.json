@@ -1,0 +1,356 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Online Account Filing Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com/",
+    "domain": "debitam.com",
+    "company_number": "11422187",
+    "GST_number": "",
+    "status": "Active",
+    "company_type": "Private limited Company",
+    "incorporation_date": "2018-09-18",
+    "founded": "2018",
+    "previous_names": [
+      {
+        "name": "SEVEN PLANETS SERVICES LIMITED",
+        "period": "2018-09-18 - 2022-05-09"
+      }
+    ],
+    "industry": "Accounting & Tax Services",
+    "sic_codes": [
+      "82990"
+    ],
+    "description": "Online accounting and tax filing company helping small businesses with company accounts, tax return filing, and compliance services.",
+    "headquarters": {
+      "address": "42-44 Bishopsgate",
+      "city": "London",
+      "state": "",
+      "postal_code": "EC2N 4AH",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "42-44 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2N 4AH",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "052672469021638",
+      "email": "enquiries@mcgillproductions.co.uk",
+      "support_email": "",
+      "website": "https://www.debitam.com/"
+    },
+    "company_size": "51-200 employees",
+    "employee_count_estimate": "51-200",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/debitam"
+  },
+  "services": [
+    "Online accounting services",
+    "Company accounts & tax return filing",
+    "Confirmation statement services",
+    "Tax planning advice",
+    "VAT & bookkeeping services",
+    "Payroll",
+    "Self-assessment tax return filing"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "Company Accounts & Tax Return (£399)",
+      "Dormant Company Accounts (£80)"
+    ],
+    "pricing_model": "Fixed fee",
+    "customer_segments": [
+      "Small businesses",
+      "Micro businesses",
+      "Limited companies",
+      "Sole traders"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Dave Jangid",
+      "title": "Director, CEO & Founder",
+      "linkedin_profile": "https://uk.linkedin.com/in/dave-jangid-0666884",
+      "email": "dave@debitam.com",
+      "phone": "Not available",
+      "experience": "Entrepreneur, investor and ambassador of innovative change. Served over 12 years. Founder of multiple ventures including Acting Office and Debitam.",
+      "education": "Not specified in search results",
+      "professional_summary": "Accomplished entrepreneur and business leader with over 12 years of experience in accounting and business services. Currently serving as CEO and Founder of Debitam and other ventures.",
+      "source": "LinkedIn, The Org, Debitam website"
+    },
+    {
+      "name": "Mohit Baheti",
+      "title": "Co-founder & Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/mohit-baheti-aa664b71",
+      "email": "mohit@debitam.com",
+      "phone": "Not available",
+      "experience": "Co-founder & COO at Acting Office, General Partner at CapsiLabs, COO at Capsitech Limited, Debitam - Online Account Filing",
+      "education": "Chartered Accountant",
+      "professional_summary": "Experienced planner, leader and specialist at optimizing and re-defining processes with the use of technology. Co-founder and Director at Debitam.",
+      "source": "LinkedIn, The Org, Endole"
+    },
+    {
+      "name": "Aakash Bang",
+      "title": "Associate Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/aakash-bang-7b4931112",
+      "email": "aakash@debitam.com",
+      "phone": "Not available",
+      "experience": "Associate Director at Debitam- Online Account Filing",
+      "education": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+      "professional_summary": "Experienced professional in accounting and financial services, currently serving as Associate Director at Debitam.",
+      "source": "LinkedIn"
+    },
+    {
+      "name": "Eleanor Thompson",
+      "title": "Head of Client Engagement",
+      "linkedin_profile": "https://uk.linkedin.com/in/eleanor-thompson-071b3bb2",
+      "email": "eleanor@debitam.com",
+      "phone": "Not available",
+      "experience": "Head of Client Engagement at Debitam - Online Account Filing",
+      "education": "Not specified in search results",
+      "professional_summary": "Experienced professional leading client engagement initiatives at Debitam, responsible for managing client relationships and ensuring service delivery.",
+      "source": "LinkedIn, Debitam website"
+    },
+    {
+      "name": "Burak Yorgancı",
+      "title": "Head of Digital Marketing",
+      "linkedin_profile": "https://uk.linkedin.com/in/burak-yorgancı-llb-mba-64475110b",
+      "email": "burak@debitam.com",
+      "phone": "Not available",
+      "experience": "Head of Digital Marketing at Debitam, Online Account Filing",
+      "education": "LLB, MBA from University of Sunderland in London",
+      "professional_summary": "Digital marketing professional with over 6 years of experience as Head of Digital Marketing at Debitam, leading the company's digital strategy and online presence.",
+      "source": "LinkedIn, Debitam website"
+    },
+    {
+      "name": "Kerry Moore",
+      "title": "Head of Training",
+      "linkedin_profile": "https://uk.linkedin.com/in/kerry-moore-9a60161a3",
+      "email": "kerry@debitam.com",
+      "phone": "Not available",
+      "experience": "Debitam - Online Account Filing",
+      "education": "Canterbury College",
+      "professional_summary": "Head of Training at Debitam, responsible for developing and implementing training programs for the organization.",
+      "source": "LinkedIn, Debitam website"
+    },
+    {
+      "name": "Rahul Mundhra",
+      "title": "Associate Director",
+      "linkedin_profile": "https://uk.linkedin.com/in/rahul-mundhra-085916176",
+      "email": "rahul@debitam.com",
+      "phone": "Not available",
+      "experience": "Debitam - Online Account Filing",
+      "education": "Indian Institute of Management, Calcutta",
+      "professional_summary": "Experienced professional with background from IIM Calcutta, currently serving as Associate Director at Debitam.",
+      "source": "LinkedIn"
+    },
+    {
+      "name": "Vijay Gandhi",
+      "title": "Sr. Account Manager",
+      "linkedin_profile": "https://uk.linkedin.com/in/vj-gandhi",
+      "email": "vijay@debitam.com",
+      "phone": "Not available",
+      "experience": "Experienced Account Manager with a proven track record in the accounting industry, specializing in Tax Advisory, Internal Audit, Financial Reporting",
+      "education": "ACCA, MIPA, AFA",
+      "professional_summary": "Senior Account Manager at Debitam with expertise in tax advisory and financial reporting, holding multiple professional accounting qualifications.",
+      "source": "LinkedIn"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": [],
+    "investors": []
+  },
+  "financial_snapshot": {
+    "revenue": "",
+    "profit": "",
+    "valuation": "",
+    "funding_rounds": [],
+    "accounts_type": "",
+    "last_accounts_date": "2024-12-31",
+    "next_accounts_due": "2026-09-30"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Ezytaxonline",
+        "description": "Tax Return Accountants Australia - Low Flat Fee Tax Return",
+        "website": "https://ezytaxonline.com.au",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Expattaxonline",
+        "description": "Taxes For Expats: Filing and Preparation",
+        "website": "https://expattaxonline.com",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "1800accountant",
+        "description": "Small Business Taxes, Bookkeeping & Payroll Services Online",
+        "website": "https://1800accountant.com",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Brian Alfred",
+        "description": "Online Accounting & Tax Filing",
+        "website": "https://brianalfred.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxd",
+        "description": "Affordable & Easy UK Tax Filing",
+        "website": "https://taxd.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Makesworth Accountants",
+        "description": "Comprehensive accounting services for small businesses",
+        "website": "https://makesworth.co.uk",
+        "source": "ExpertMarket"
+      },
+      {
+        "name": "Crunch",
+        "description": "Cost-effective specialist for eCommerce businesses with high client satisfaction",
+        "website": "https://crunch.co.uk",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "ClearCloud Accounting",
+        "description": "Partner accountants offering specialized services",
+        "website": "https://clearcloudaccounting.co.uk",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "eAccounts",
+        "description": "Partner accountants providing accounting services",
+        "website": "https://eaccounts.co.uk",
+        "source": "LinkMyBooks"
+      },
+      {
+        "name": "TWB Accountants",
+        "description": "Tailored accounting for eCommerce businesses with Xero integration",
+        "website": "https://twbaccounting.co.uk",
+        "source": "LinkMyBooks"
+      }
+    ],
+    "market_position": "Emerging player in online accounting services with strong digital presence"
+  },
+  "news": [
+    {
+      "title": "DEBITAM",
+      "summary": "01 // PRE-PRODUCTION Idea Generation & Iteration Script Writing • Storyboard/Shot List • Concept Refinement • Logistics • Casting • Crew Hire • Scouting • Prep Building on the high-quality, narrative-driven content we’d produced for Debitam previously, we began the production with a discovery call to get a better insight into the company’s content goals and to understand what they needed.\nOnce ‘The Ritual’ idea was selected, our creative team put together a series of moodboards to show what we wanted the video to look like.\nIn addition, we drafted an early script and storyboard and refined these as we went along.\nBuilding on the high-quality, narrative-driven content we’d produced for Debitam previously, we began the production with a discovery call to get a better insight into the company’s content goals and to understand what they needed.\nIn addition, we drafted an early script and storyboard and refined these as we went along.",
+      "date": "None",
+      "source": "https://www.mcgillproductions.co.uk/works/ritual-of-the-accounts",
+      "url": "https://www.mcgillproductions.co.uk/works/ritual-of-the-accounts"
+    },
+    {
+      "title": "Online Accounting and Tax Filing Services",
+      "summary": "What do we do You are already too busy with the daily grind as a business owner, what you need is an accountant who's prompt and reliable and can set you ready for the next step by making use of clear and business-focused language without paperwork faff, in other words, we do online accounting",
+      "date": "2019-12-11 08:00:09+00:00",
+      "source": "https://www.debitam.com/",
+      "url": "https://www.debitam.com/"
+    },
+    {
+      "title": "Online accounting help",
+      "summary": "Cash basis of accounting deals with recognising revenues- when cash is actually received and expenses- when cash is actually paid.\nIf you've never registered for self-assessment with HMRC ever before, then you need to register for it online on gov.uk website.\nOnce you register, HMRC will set up your self-assessment online service account and send you a letter with your UTR.\nYou need to re-register online via form CWF1 if you've sent a self-assessment return online before.\nThe umbrella company will raise an invoice to the recruitment agency, which will subsequently bill the end-client.",
+      "date": "2020-01-20 14:53:57+00:00",
+      "source": "https://www.debitam.com/faq/",
+      "url": "https://www.debitam.com/faq/"
+    },
+    {
+      "title": "Debitam: Latin Declension & Meaning",
+      "summary": "",
+      "date": "None",
+      "source": "https://www.latindictionary.io/word/debitam",
+      "url": "https://www.latindictionary.io/word/debitam"
+    },
+    {
+      "title": "Latin search results",
+      "summary": "Advanced English to Latin Options For example, try searching for \"well\" while selecting the \"noun\" part of speech.",
+      "date": "None",
+      "source": "https://www.latin-english.com/latin/debitam/",
+      "url": "https://www.latin-english.com/latin/debitam/"
+    },
+    {
+      "title": "Find and update company information",
+      "summary": "We use cookies to make our services work and collect analytics information.\nTo accept or reject analytics cookies, turn on JavaScript in your browser settings and reload this page.\nAccounts Next accounts made up to 31 December 2025 due by 30 September 2026 Last accounts made up to 31 December 2024 Confirmation statement Next statement date 8 September 2026 due by 22 September 2026 Last statement dated 8 September 2025",
+      "date": "None",
+      "source": "https://find-and-update.company-information.service.gov.uk/company/11574940",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/11574940"
+    },
+    {
+      "title": "Debitam",
+      "summary": "Online Accounting Service | Bookkeeping | Payroll | Personal Tax Return Filing to HMRC | Corporation Tax Filing | HMRC ONLINE FILING: Our aim is to help small business owners` tax return and account filing compliance works by using cutting-edge technology and adopting a versatile corporate cultur... Read more",
+      "date": "None",
+      "source": "https://theorg.com/org/debitam",
+      "url": "https://theorg.com/org/debitam"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "3,382",
+    "monthly_web_visits_estimate": "",
+    "trustpilot_rating": "Top rated",
+    "trustpilot_reviews": "5,941 positive reviews",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Dave Jangid, CEO & Founder",
+    "secondary_targets": [
+      "Mohit Baheti, Co-founder & Director"
+    ],
+    "general_contact_email": "enquiries@mcgillproductions.co.uk",
+    "general_phone": "052672469021638",
+    "sales_signals": [
+      "Recent rebranding",
+      "Expanding service offerings",
+      "Growing social media presence"
+    ]
+  },
+  "ai_insights": {
+    "summary": "Debitam is an established online accounting service provider with strong market presence and positive customer reviews. The company shows healthy growth indicators with expanding services and partnerships.",
+    "growth_stage": "Growth",
+    "funding_stage": "Bootstrapped",
+    "business_health_score": 85,
+    "confidence_score": 90
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 11:28:49.859240",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled"
+    ]
+  }
+}

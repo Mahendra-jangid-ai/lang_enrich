@@ -1,0 +1,300 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Acting Office Limited",
+    "brand_name": "Acting Office",
+    "website": "https://www.actingoffice.com/",
+    "domain": "actingoffice.com",
+    "company_number": "14296520",
+    "GST_number": "",
+    "status": "Active",
+    "company_type": "Private limited Company",
+    "incorporation_date": "2022-08-15",
+    "founded": "2019",
+    "previous_names": [],
+    "industry": "Software Development, Accounting Technology",
+    "sic_codes": "62012",
+    "description": "Acting Office is a next-generation enterprise software platform designed specifically for medium and large sized accounting firms. It provides a fully integrated software platform for modern accountancy practices that want precision, efficiency and complete visibility across their operations.",
+    "headquarters": {
+      "address": "17 Bevis Marks",
+      "city": "London",
+      "state": "England",
+      "postal_code": "EC3A 7LN",
+      "country": "UK"
+    },
+    "locations": [
+      {
+        "address": "17 Bevis Marks",
+        "city": "London",
+        "postal_code": "EC3A 7LN",
+        "country": "UK"
+      }
+    ],
+    "contact": {
+      "phone": "020 3835 6040",
+      "email": "support@actingoffice.com",
+      "support_email": "support@actingoffice.com",
+      "website": "https://www.actingoffice.com/"
+    },
+    "company_size": "51-200 employees",
+    "employee_count_estimate": "1376",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/acting-office"
+  },
+  "services": [],
+  "products": [
+    {
+      "name": "Acting Office Platform",
+      "description": "Cloud-based practice management software for accounting firms with features including client management, workflow automation, time tracking, billing, and AI-powered intelligence."
+    }
+  ],
+  "business_model": {
+    "revenue_streams": [
+      "Software subscriptions"
+    ],
+    "pricing_model": "Subscription-based",
+    "customer_segments": [
+      "Medium to large accounting firms"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Kenny MacAulay",
+      "title": "CEO",
+      "linkedin_profile": "https://uk.linkedin.com/in/kenny-macaulay-3251801",
+      "email": "kenny.macaulay@actingoffice.com",
+      "phone": null,
+      "experience": "CEO of Acting Office, leading mission to redefine how accountancy firms operate",
+      "education": "Britannia Royal Naval College",
+      "professional_summary": "Experienced CEO leading digital transformation in accounting technology",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Mohit Baheti",
+      "title": "Co-founder & COO",
+      "linkedin_profile": "https://uk.linkedin.com/in/mohit-baheti-aa664b71",
+      "email": "mohit.baheti@actingoffice.com",
+      "phone": null,
+      "experience": "Co-founder & COO at Acting Office, specialist in optimizing and redefining processes with technology",
+      "education": null,
+      "professional_summary": "Experienced planner and leader focused on process optimization through technology",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Dave Jangid",
+      "title": "Director",
+      "linkedin_profile": null,
+      "email": "dave.jangid@actingoffice.com",
+      "phone": null,
+      "experience": "Director at Acting Office",
+      "education": null,
+      "professional_summary": "Key leadership role in accounting technology company",
+      "source": "Company website"
+    },
+    {
+      "name": "Mark McNee",
+      "title": "Leadership Role",
+      "linkedin_profile": "https://uk.linkedin.com/in/mark-mcnee",
+      "email": "mark.mcnee@actingoffice.com",
+      "phone": null,
+      "experience": "Experience at Acting Office",
+      "education": null,
+      "professional_summary": "Experienced professional in accounting technology",
+      "source": "LinkedIn profile"
+    },
+    {
+      "name": "Arihant Mehta",
+      "title": "Leadership Role",
+      "linkedin_profile": "https://uk.linkedin.com/in/arihantmehta",
+      "email": "arihant.mehta@actingoffice.com",
+      "phone": null,
+      "experience": "Experienced accounting professional and leader at Acting Office, passionate about automating processes",
+      "education": "The Institute of Chartered Accountants of India",
+      "professional_summary": "Accounting leader focused on process automation",
+      "source": "LinkedIn profile"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": [],
+    "investors": []
+  },
+  "financial_snapshot": {
+    "revenue": "£11.3m",
+    "profit": "",
+    "valuation": "Not found",
+    "funding_rounds": "[]",
+    "accounts_type": "Micro company accounts",
+    "last_accounts_date": "31 December 2024",
+    "next_accounts_due": "30 September 2026"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Karbon",
+        "description": "Practice management software with workflow automation, email integration, and client portal features for accounting firms.",
+        "website": "https://karbonhq.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "TaxDome",
+        "description": "All-in-one platform for accounting, tax, and bookkeeping firms offering workflow automation, CRM, and document management.",
+        "website": "https://taxdome.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Financial Cents",
+        "description": "Practice management solution for small to mid-sized accounting firms with workflow and task management features.",
+        "website": "https://financialcents.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Canopy",
+        "description": "Cloud-based practice management platform for accounting firms with workflow, document management, and client portal features.",
+        "website": "https://www.canopy.tax/",
+        "source": "Search results"
+      },
+      {
+        "name": "Uku",
+        "description": "Practice management software with workflow automation, client portal, and time tracking for accounting firms.",
+        "website": "https://ukulead.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Pixie",
+        "description": "Practice management solution designed for UK accounting firms with essential tools for operations management.",
+        "website": "https://www.pixiesoftware.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Glide",
+        "description": "UK-based practice management software for accounting firms with workflow automation and staff scheduling features.",
+        "website": "https://www.glide.co.uk/",
+        "source": "Search results"
+      },
+      {
+        "name": "Senta",
+        "description": "Practice management platform with client portal, document management, and workflow features for accounting firms.",
+        "website": "https://www.senta.co/",
+        "source": "Search results"
+      },
+      {
+        "name": "Jetpack Workflow",
+        "description": "Workflow management software for accounting firms with job tracking and template features.",
+        "website": "https://jetpackworkflow.com/",
+        "source": "Search results"
+      },
+      {
+        "name": "Firm360",
+        "description": "Cloud-based practice management system for accounting firms with billing, reporting, and client communication tools.",
+        "website": "https://firm360.com/",
+        "source": "Search results"
+      }
+    ],
+    "market_position": "Competing in the accounting practice management software market with a focus on medium to large UK accounting firms"
+  },
+  "news": [
+    {
+      "title": "",
+      "summary": "",
+      "date": "None",
+      "source": "https://ballotpedia.org/Acting_officeholder",
+      "url": "https://ballotpedia.org/Acting_officeholder"
+    },
+    {
+      "title": "Acting Office",
+      "summary": "Benefits of integrating Acting Office The Acting Office integration with FreeAgent will bring significant efficiency and accuracy benefits by connecting the practice software directly with the bookkeeping data.\nAll financial information for your clients in FreeAgent is instantly available in Acting Office.\nTrial balances can be mapped and imported directly from FreeAgent, and Acting Office automatically reads and interprets FreeAgent account codes for faster processing.\nHow Acting Office works with FreeAgent The integration with FreeAgent enables the seamless transfer of client data and financial records directly into Acting Office.\nHow do I get started with Acting Office?",
+      "date": "None",
+      "source": "https://www.freeagent.com/us/integrations/acting-office/",
+      "url": "https://www.freeagent.com/us/integrations/acting-office/"
+    },
+    {
+      "title": "‎Acting Office App",
+      "summary": "The developer, Acting Office, indicated that the app’s privacy practices may include handling of data as described below.\nFor more information, see the developer’s privacy policy .\nTo help you better understand the developer’s responses, see Privacy Definitions and Examples .\nPrivacy practices may vary, for example, based on the features you use or your age.\nLearn More Data Not Collected The developer does not collect any data from this app.",
+      "date": "None",
+      "source": "https://apps.apple.com/us/app/acting-office/id6745391839",
+      "url": "https://apps.apple.com/us/app/acting-office/id6745391839"
+    },
+    {
+      "title": "Practice Management Software for UK Accounting Firms",
+      "summary": "Run your entire firm from a single client record.\nFrom lead to accounts submission - CRM, onboarding, AML, bookkeeping, accounts, tax, payroll, and practice management unified in one AI-powered workflow engine.\nBook a demo",
+      "date": "2023-06-13 11:34:50+00:00",
+      "source": "https://www.actingoffice.com/",
+      "url": "https://www.actingoffice.com/"
+    },
+    {
+      "title": "What is acting officer? Simple Definition & Meaning · LSD.Law",
+      "summary": "To ensure continuous operation and leadership, the Governor appoints the Deputy Director to serve as the acting Director while a search for a new permanent director is conducted.\nThis illustrates an acting officer stepping into a vacant position to maintain essential government services.\nExample 2 (Corporate Context): The Chief Executive Officer (CEO) of a technology company takes an approved three-month sabbatical.\nThe Board of Directors designates the Chief Operating Officer (COO) to serve as the acting CEO during this period.\nThis demonstrates an acting officer taking over due to the incapacitation of the permanent office holder.",
+      "date": "2023-03-23 00:00:00",
+      "source": "https://lsd.law/define/acting-officer",
+      "url": "https://lsd.law/define/acting-officer"
+    },
+    {
+      "title": "Acting (law)",
+      "summary": "For the law governing people acting on someone else's behalf, see law of agency.\nIn law, a person is acting in a position if they are not serving in the position on a permanent basis.\n[1] Politics [edit] Examples of acting positions in politics include acting mayor, acting governor, acting president, and acting prime minister.\nBeing placed in an acting position is a good indicator that the acting person has the confidence of their superiors or colleagues, and is likely to be chosen for the position on a permanent basis.\n[6] The rules for appointment of acting officials are covered in many cases by the Federal Vacancies Reform Act of 1998 (FVRA).",
+      "date": "2004-05-30 18:33:40+00:00",
+      "source": "https://en.wikipedia.org/wiki/Acting_(law)",
+      "url": "https://en.wikipedia.org/wiki/Acting_(law)"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "1,376",
+    "monthly_web_visits_estimate": "",
+    "trustpilot_rating": "3.5",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": "Not found"
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Kenny MacAulay, CEO",
+    "secondary_targets": [
+      "Mohit Baheti, Co-founder & COO"
+    ],
+    "general_contact_email": "support@actingoffice.com",
+    "general_phone": "020 3835 6040",
+    "sales_signals": []
+  },
+  "ai_insights": {
+    "summary": "Acting Office is a growing enterprise software company in the accounting technology space, offering an AI-powered platform that integrates various accounting functions into a single system. The company has demonstrated success with clients like Caroola, showing significant efficiency improvements.",
+    "growth_stage": "Growth",
+    "funding_stage": "Unknown",
+    "business_health_score": 8,
+    "confidence_score": 85
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 12:58:59.350547",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled",
+      "LLM retry enrichment enabled",
+      "Hypothesis search enabled"
+    ]
+  }
+}

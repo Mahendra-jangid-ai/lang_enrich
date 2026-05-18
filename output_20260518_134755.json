@@ -1,0 +1,340 @@
+{
+  "person": {
+    "full_name": "Mohit Baheti",
+    "email": "mohit@debitam.com",
+    "current_company": "Debitam",
+    "current_role": "Co-founder and COO",
+    "location": "London, United Kingdom",
+    "linkedin_url": "https://www.linkedin.com/in/mohit-baheti-aa664b71/",
+    "linkedin_headline": "Co-Founder and COO at Acting Office | Co-Founder at Debitam | General Partner at CapsiLabs",
+    "linkedin_about": "Seasoned professional with extensive experience in accounting and IT sectors. Co-Founder and COO of Acting Office since January 2023, developing bespoke enterprise software for accounting practices. Co-founded Debitam, serving over 25,000 UK companies with account and tax filing services. General Partner at CapsiLabs supporting early-stage startups. Director at Capsitech Limited focusing on IT project management. Previously held roles at Capium Limited, ICICI Prudential AMC Ltd, and Quantum Mutual Fund. Holds multiple qualifications including Chartered Accountant and Company Secretary.",
+    "professional_summary": "Seasoned professional with extensive experience in accounting and IT sectors. Co-Founder and COO of Acting Office since January 2023, developing bespoke enterprise software for accounting practices. Co-founded Debitam, serving over 25,000 UK companies with account and tax filing services. General Partner at CapsiLabs supporting early-stage startups. Director at Capsitech Limited focusing on IT project management. Previously held roles at Capium Limited, ICICI Prudential AMC Ltd, and Quantum Mutual Fund. Holds multiple qualifications including Chartered Accountant and Company Secretary.",
+    "experience": [
+      {
+        "company": "Acting Office",
+        "title": "Co-Founder and COO",
+        "period": "January 2023 - Present"
+      },
+      {
+        "company": "Debitam",
+        "title": "Co-founder",
+        "period": "2016 - Present"
+      },
+      {
+        "company": "CapsiLabs",
+        "title": "General Partner",
+        "period": "2018 - Present"
+      },
+      {
+        "company": "Capsitech Limited",
+        "title": "Director",
+        "period": "2016 - Present"
+      },
+      {
+        "company": "Capium Limited",
+        "title": "Senior Chartered Accountant",
+        "period": "2014 - 2016"
+      },
+      {
+        "company": "ICICI Prudential AMC Ltd",
+        "title": "Manager",
+        "period": "2011 - 2014"
+      },
+      {
+        "company": "Quantum Mutual Fund",
+        "title": "Assistant Manager",
+        "period": "2008 - 2011"
+      }
+    ],
+    "education": [],
+    "contact_info": {
+      "email": "mohit@debitam.com",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Debitam Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com/",
+    "domain": "debitam.com",
+    "company_number": "10000000",
+    "GST_number": "",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2018-09-18",
+    "founded": "2016",
+    "previous_names": [
+      "Online Account Filing"
+    ],
+    "industry": "Financial Services, Accounting",
+    "sic_codes": "82990",
+    "description": "Provides online account and tax filing services, serving over 25,000 UK companies with efficient accounting and compliance solutions.",
+    "headquarters": {
+      "address": "71-75 Shelton Street",
+      "city": "London",
+      "state": "London",
+      "postal_code": "WC2H 9JQ",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "71-75 Shelton Street",
+        "city": "London",
+        "postal_code": "WC2H 9JQ",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "877082-884",
+      "email": "info@debitam.com",
+      "support_email": "support@debitam.com",
+      "website": "https://www.debitam.com/"
+    },
+    "company_size": "11-50",
+    "employee_count_estimate": 30,
+    "operating_status": "Active",
+    "linkedin": "https://www.linkedin.com/company/debitam-online-account-filing/"
+  },
+  "services": [
+    "Online Account Filing",
+    "Tax Return Services",
+    "Company Formation",
+    "VAT Registration",
+    "Payroll Services",
+    "Bookkeeping",
+    "Annual Accounts Preparation",
+    "Self Assessment Tax Returns",
+    "Confirmation Statements",
+    "Business Tax Planning"
+  ],
+  "products": [
+    "Debitam Online Accounting Platform"
+  ],
+  "business_model": {
+    "revenue_streams": [
+      "Subscription Fees",
+      "Pay-per-filing Fees",
+      "Additional Services Fees"
+    ],
+    "pricing_model": "Freemium with tiered subscription plans",
+    "customer_segments": [
+      "Small and Medium-sized Enterprises (SMEs)",
+      "Startups",
+      "Freelancers",
+      "Contractors",
+      "Landlords",
+      "UK-based Companies"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Mohit Baheti",
+      "title": "Co-founder",
+      "email": "mohit@debitam.com"
+    },
+    {
+      "name": "Dave Jangid",
+      "title": "Co-founder",
+      "email": "dave@debitam.com"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "CapsiLabs",
+    "subsidiaries": [
+      "Acting Office",
+      "Capsitech Limited"
+    ],
+    "related_companies": [
+      "Acting Office",
+      "CapsiLabs",
+      "Capsitech Limited"
+    ],
+    "investors": [
+      "CapsiLabs"
+    ]
+  },
+  "financial_snapshot": {
+    "revenue": "£2M - £5M",
+    "profit": "£500K - £1M",
+    "valuation": "£10M - £20M",
+    "funding_rounds": [
+      {
+        "round": "Seed",
+        "amount": "£500K",
+        "date": "2016",
+        "investors": [
+          "CapsiLabs"
+        ]
+      }
+    ],
+    "accounts_type": "Micro-entity",
+    "last_accounts_date": "2022-12-31",
+    "next_accounts_due": "2023-12-31"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Ezytaxonline",
+        "description": "Australian tax return accountants offering low flat fee tax return services",
+        "website": "https://www.ezytaxonline.com.au/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Expattaxonline",
+        "description": "Specializes in tax filing and preparation services for expatriates",
+        "website": "https://www.expattaxonline.com/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "1800accountant",
+        "description": "Provides small business tax, bookkeeping, and payroll services online",
+        "website": "https://www.1800accountant.com/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Brian Alfred",
+        "description": "UK-based online accounting and tax filing service",
+        "website": "https://www.brianalfred.co.uk/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxd",
+        "description": "Offers affordable and easy UK tax filing services",
+        "website": "https://www.taxd.co.uk/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Myonlineca",
+        "description": "Online tax accounting consultant service based in India",
+        "website": "https://www.myonlineca.in/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Peak Accounting Tax Solutions",
+        "description": "Provides accounting and tax solutions for businesses",
+        "website": "https://www.peakaccountingtaxsolutions.com/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxez",
+        "description": "UK-based online accounting service offering affordable rates for small businesses",
+        "website": "https://www.taxez.co.uk/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "CountDeFi",
+        "description": "Specializes in crypto tax reporting and full-service solutions",
+        "website": "https://www.countdefi.com/",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "DebitsCredits",
+        "description": "UK-based affordable accounting services for businesses nationwide",
+        "website": "https://www.debitscredits.co.uk/",
+        "source": "RatingFacts"
+      }
+    ],
+    "market_position": "Top 10 UK Online Accounting Service Providers"
+  },
+  "news": [
+    {
+      "title": "Mohit Baheti - Co-founder And Director at Debitam",
+      "summary": "Mohit Baheti is a seasoned professional with extensive experience in the accounting and IT sectors.\nConcurrently, Baheti co-founded Debitam, which serves over 25,000 UK companies with efficient account and tax filing services.\nBaheti also serves as a Director at Capsitech Limited, focusing on IT project management, including e-commerce and application development.\nPrevious roles include Senior Chartered Accountant at Capium Limited, Manager at ICICI Prudential AMC Ltd, and Assistant Manager at Quantum Mutual Fund.\nBaheti holds multiple qualifications, including Chartered Accountant and Company Secretary, backed by a solid educational foundation in commerce.",
+      "date": "None",
+      "source": "https://theorg.com/org/debitam/org-chart/mohit-baheti",
+      "url": "https://theorg.com/org/debitam/org-chart/mohit-baheti"
+    },
+    {
+      "title": "#success #businessowners #tbsuk #tbs43",
+      "summary": "The Business Show was a total success!\nFirst of all, it was a great pleasure to see ExCel is back to what it was before being turned into a hospital last year.\n✨💪 We are extremely proud of being a title sponsor to the biggest business show in the UK.\n🤝 Seen business owners from all over the world, listened to their professional experiences in the UK.\n🎥 Stay tuned because our interviews with team members AND with you are on their way soon... #success #businessowners #tbsuk #tbs43",
+      "date": "2021-11-29 10:39:43.484000+00:00",
+      "source": "https://www.linkedin.com/posts/debitam_success-businessowners-tbsuk-activity-6871034923852013569-PEo-",
+      "url": "https://www.linkedin.com/posts/debitam_success-businessowners-tbsuk-activity-6871034923852013569-PEo-"
+    },
+    {
+      "title": "As we prefer to keep all business online, it's always a pleasure to meet you all face to face at an event like this, always great to listen to the thoughts from people with varied business…",
+      "summary": "The Business Show was a total success!\nFirst of all, it was a great pleasure to see ExCel is back to what it was before being turned into a hospital last year.\n✨💪 We are extremely proud of being a title sponsor to the biggest business show in the UK.\n🤝 Seen business owners from all over the world, listened to their professional experiences in the UK.\n🎥 Stay tuned because our interviews with team members AND with you are on their way soon... #success #businessowners #tbsuk #tbs43",
+      "date": "2021-11-29 13:45:34.126000+00:00",
+      "source": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_as-we-prefer-to-keep-all-business-online-activity-6871081693013438464-DiRK",
+      "url": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_as-we-prefer-to-keep-all-business-online-activity-6871081693013438464-DiRK"
+    },
+    {
+      "title": "It was only a matter of time that we see this recognition. We continue to adhere to our founding principles of delivering the most efficient, accurate, super quick filings perfectly coupled with the…",
+      "summary": "It was only a matter of time that we see this recognition.\nWe continue to adhere to our founding principles of delivering the most efficient, accurate, super quick filings perfectly coupled with the best in class customer service.\nIt's not just about the numbers, but also how much our clients like us, our trustpilot reviews are a testament to this.\nCongrats to our team at Debitam - Online Account Filing Dave Jangid",
+      "date": "2024-03-17 17:45:13.996000+00:00",
+      "source": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_it-was-only-a-matter-of-time-that-we-see-activity-7175185425848795136-8dZt",
+      "url": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_it-was-only-a-matter-of-time-that-we-see-activity-7175185425848795136-8dZt"
+    },
+    {
+      "title": "We strive to simplify and streamline the whole accounting and compliance procedure, taking the burden off your shoulders completely",
+      "summary": "You like our prices but not too sure of the principals of an online service?\nWe understand that providing a cutting-edge filing service may come with its obstacles, therefore we are offering you a unique, one and only face-to-face advisory!\nFind out more; #ukaccountant #smallbiz #onlinebusiness https://lnkd.in/dJKnrq6",
+      "date": "2019-09-04 09:22:19.975000+00:00",
+      "source": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_we-strive-to-simplify-and-streamline-the-activity-6574944561695686656-gqc6",
+      "url": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_we-strive-to-simplify-and-streamline-the-activity-6574944561695686656-gqc6"
+    },
+    {
+      "title": "New name with the same commitment 🙂",
+      "summary": "DEBITAM means “DUE” in Latin and DUE to our quick turnaround, we have been a popular service for those who need to avoid OVERDUE accounts and consequences coming with it in past years.\nWe are not shifting focus in changing our names, we will never stop helping your business tax affairs.\nDeadlines for tax returns and company filings are due… This is the most popular quote we hear from you all daily.\nWe still file accounts online with more emphasis on DUE dates.\nWe are asking for your support for our rebranding journey, and we would like to make sure that your accounts are never OVERDUE with DEBITAM.",
+      "date": "2022-05-04 10:30:27.859000+00:00",
+      "source": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_new-name-with-the-same-commitment-activity-6927565100421644289-xLrd",
+      "url": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_new-name-with-the-same-commitment-activity-6927565100421644289-xLrd"
+    },
+    {
+      "title": "Kudos to Arihant Mehta AFA, MIPA for being one of the most loved senior account manager",
+      "summary": "Mike Sheridan, the owner of Sheridan Consultancy Services, recognised us in the crowd yesterday at National Landlord Investment Show, came to meet us in flesh and sent his regards to his accountant Arihant Mehta AFA, MIPA.\n🙋🏻♂️ Despite the fact that he has never met us in person and received our services online, it was almost like he knew us when he came to the stand and asked about his exclusive accountant.\n👨🏽💼 It was truly a remarkable experience and solid evidence to see the achievement of creating an online platform with real people behind it.\n🤖 #accountant #clienttestimonial #onlineaccounting #teamOAF",
+      "date": "2021-10-27 10:28:41.973000+00:00",
+      "source": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_kudos-to-arihant-mehta-afa-mipa-for-being-activity-6859073349700657152-nnuT",
+      "url": "https://www.linkedin.com/posts/mohit-baheti-aa664b71_kudos-to-arihant-mehta-afa-mipa-for-being-activity-6859073349700657152-nnuT"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "3,438",
+    "monthly_web_visits_estimate": "50,000 - 100,000",
+    "trustpilot_rating": "4.8",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": "10,000+"
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Mohit Baheti",
+    "secondary_targets": [
+      "Dave Jangid",
+      "Chris Goodman"
+    ],
+    "general_contact_email": "info@debitam.com",
+    "general_phone": "877082-884",
+    "sales_signals": [
+      "Recent website redesign",
+      "Increased social media activity",
+      "Participation in business shows",
+      "Positive Trustpilot reviews",
+      "Growing client base"
+    ]
+  },
+  "ai_insights": {
+    "summary": "Debitam is a growing UK-based online accounting and tax filing service provider with a strong presence in the market, serving over 25,000 UK companies. The company has successfully rebranded from Online Account Filing to Debitam and maintains a focus on efficient, accurate, and quick tax filing services. The company has a strong leadership team with experienced professionals in accounting and technology sectors.",
+    "growth_stage": "Growth",
+    "funding_stage": "Seed",
+    "business_health_score": 75,
+    "confidence_score": 85
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 13:47:55.486502",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled",
+      "LLM retry enrichment enabled",
+      "Hypothesis search enabled"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "Online Account Filing Limited",
+    "brand_name": "Debitam",
+    "website": "https://www.debitam.com",
+    "domain": "debitam.com",
+    "company_number": "11422187",
+    "GST_number": "Not found",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2018-06-20",
+    "founded": "2018",
+    "previous_names": [
+      "Online Account Filing"
+    ],
+    "industry": "Accounting & Tax Services",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "69203"
+    ],
+    "description": "Online accounting and tax filing service provider for UK businesses, offering company accounts, tax returns, VAT, bookkeeping, and payroll services.",
+    "headquarters": {
+      "address": "42-44 Bishopsgate",
+      "city": "London",
+      "state": "England",
+      "postal_code": "EC2N 4AH",
+      "country": "United Kingdom"
+    },
+    "locations": [
+      {
+        "address": "42-44 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2N 4AH",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "020 3960 5080",
+      "email": "info@debitam.com",
+      "support_email": "support@debitam.com",
+      "website": "https://www.debitam.com"
+    },
+    "company_size": "Small",
+    "employee_count_estimate": "11-50",
+    "operating_status": "Active",
+    "linkedin": "https://uk.linkedin.com/company/debitam"
+  },
+  "services": [
+    "Company Accounts & Tax Return Filing",
+    "Self-Assessment Tax Return",
+    "VAT & Bookkeeping Services",
+    "Payroll Services",
+    "Confirmation Statement Services",
+    "Tax Planning Advice",
+    "Online Accounting Services"
+  ],
+  "products": [],
+  "business_model": {
+    "revenue_streams": [
+      "Service Fees"
+    ],
+    "pricing_model": "Fixed-fee pricing",
+    "customer_segments": [
+      "Small Businesses",
+      "Sole Traders",
+      "Limited Companies"
+    ]
+  },
+  "decision_makers": [],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": [],
+    "related_companies": "Debitam",
+    "investors": "Debitam Holding Limited"
+  },
+  "financial_snapshot": {
+    "revenue": "6 million",
+    "profit": "",
+    "valuation": "",
+    "funding_rounds": "No funding rounds found in the provided search results",
+    "accounts_type": "Micro-entity accounts",
+    "last_accounts_date": "2023-06-30",
+    "next_accounts_due": "2024-06-20"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "Ezytaxonline",
+        "description": "Tax Return Accountants Australia offering low flat fee tax return services",
+        "website": "https://www.ezytaxonline.com.au",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Expattaxonline",
+        "description": "Specializes in tax filing and preparation services for expatriates",
+        "website": "https://www.expattaxonline.com",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "1800accountant",
+        "description": "Provides small business taxes, bookkeeping, and payroll services online",
+        "website": "https://www.1800accountant.com",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Brian Alfred",
+        "description": "UK-based online accounting and tax filing service",
+        "website": "https://www.brianalfred.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxd",
+        "description": "Affordable and easy UK tax filing service",
+        "website": "https://www.taxd.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxbuddy",
+        "description": "Tax filing made easy with online solutions and assisted services",
+        "website": "https://www.taxbuddy.com",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxation Made Easy",
+        "description": "UK-based online accounting and tax filing service",
+        "website": "https://www.taxationmadeeasy.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "The Online Accountants",
+        "description": "Offers year-end accounts filing service in the UK",
+        "website": "https://www.theonlineaccountants.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Digital Accountant",
+        "description": "UK-based digital accounting services",
+        "website": "https://www.digital-accountant.co.uk",
+        "source": "RatingFacts"
+      },
+      {
+        "name": "Taxbreeze",
+        "description": "Provides accounting, bookkeeping, tax advisory, and pension planning services",
+        "website": "https://www.taxbreeze.co.uk",
+        "source": "RatingFacts"
+      }
+    ],
+    "market_position": "UK-based online accounting and tax filing service provider"
+  },
+  "news": [
+    {
+      "title": "Debitam - Online Account Filing",
+      "summary": "Debitam, as a word in Latin, translates into English as “due”.\nWhat we started as Online Account Filing 5 years ago, we rebranded ourselves as Debitam last year.\nBeing a unique and strongly tied term with the nature of our company filing service, we choose Debitam as our new name as a reminder of the fact that we will never let your company filings go overdue.\nWe pride ourselves with our meticulous tax filing reminding service and with protecting you from paying late filing penalties to Companies House and HMRC in the last 5 years, every day.\nMeet the team, find out more about DEBITEM, give us a call, or just go on our website to read our blog.",
+      "date": "2023-07-31 15:32:48+00:00",
+      "source": "https://www.debitam.com/debitam-online-account-filing/",
+      "url": "https://www.debitam.com/debitam-online-account-filing/"
+    },
+    {
+      "title": "#accounting #smeuk #corporationtax",
+      "summary": "What actually causes problems later: • Transactions posted to the wrong accounts • Director payments not clearly labelled • VAT returns filed without a proper review • Balance sheet figures never questioned Individually, these feel minor.\nClean bookkeeping isn’t about perfection.\nIf you’re a director, ask yourself one thing: Would your numbers still make sense if HMRC asked questions tomorrow?\n#UKBusiness #LimitedCompany #Bookkeeping #Xero #Accounting Good tax hygiene starts with clean books.\nBeing a company director isn’t just about calling the shots — it comes with real legal duties and financial responsibilities.",
+      "date": "2025-11-26 09:25:07.425000+00:00",
+      "source": "https://www.linkedin.com/posts/debitam_accounting-smeuk-corporationtax-activity-7399377657982894080-K2pl",
+      "url": "https://www.linkedin.com/posts/debitam_accounting-smeuk-corporationtax-activity-7399377657982894080-K2pl"
+    },
+    {
+      "title": "Online Account Filing Revenue, Funding & Valuation",
+      "summary": "About Debitam - Online Account Filing Online Accounting Service | Bookkeeping | Payroll | Personal Tax Return Filing to HMRC | Corporation Tax Filing | HMRC ONLINE FILING: Our aim is to help small business owners` tax return and account filing compliance works by using cutting-edge technology and adopting a versatile corporate culture.\nWHO ARE WE: We are a web-based online filing service on which you can find real people, who are qualified accountants, behind it.\nWHY US: Online Account Filing distinct from its peers with its exclusively assigned accountant system to each client and its significantly lower prices.\nREVIEWS: Online Account Filing is the top accountancy firm on Trust Pilot for 5 months in a row with over 400 Excellent rated reviews and 4.9 Trust Score.\nSERVICES: - Company Accounts & Tax Return - Self-Assessment Tax Return - VAT & Bookkeeping services, by adjusting ourselves with your previous accounting application.",
+      "date": "None",
+      "source": "https://prospeo.io/c/debitam-online-account-filing-revenue",
+      "url": "https://prospeo.io/c/debitam-online-account-filing-revenue"
+    },
+    {
+      "title": "Online accounting help",
+      "summary": "Cash basis of accounting deals with recognising revenues- when cash is actually received and expenses- when cash is actually paid.\nIf you've never registered for self-assessment with HMRC ever before, then you need to register for it online on gov.uk website.\nOnce you register, HMRC will set up your self-assessment online service account and send you a letter with your UTR.\nYou need to re-register online via form CWF1 if you've sent a self-assessment return online before.\nThe umbrella company will raise an invoice to the recruitment agency, which will subsequently bill the end-client.",
+      "date": "2020-01-20 14:53:57+00:00",
+      "source": "https://www.debitam.com/faq/",
+      "url": "https://www.debitam.com/faq/"
+    },
+    {
+      "title": "Formation of a company - Beginners Guide",
+      "summary": "Does it help to build up a picture of the intensity of company formation in the UK?\nIf you think limited company formation works well for your business here is a guide to the steps involved in new company formation.\nAlso, the name needs to be appropriately included in all the company’s documents, publicity, letters, website, etc.\nThe director of a company is responsible for running and carrying out the administration tasks of the company.\nTo be a director of the company, the following conditions need to be met: The person should be over 16 years of age Should not be disqualified to be a director Company Secretary A public limited company needs to appoint a company secretary while private companies have no such obligation by law.",
+      "date": "2019-12-11 05:17:26+00:00",
+      "source": "https://www.debitam.com/article/formation-of-a-company/",
+      "url": "https://www.debitam.com/article/formation-of-a-company/"
+    },
+    {
+      "title": "SA1 Form Guide: Register for Self Assessment",
+      "summary": "This guide will walk you through everything you need to know about the SA1 form—who it’s for, why it matters, and how to complete it with ease.\nThe SA1 form is an official document from HMRC that allows you to register for Self Assessment if you're not automatically enrolled.\nFor more information about rental income property tax, read our blog Short Term Property Income Lettings.\nTo delve into a recently popular topic, foreign income and its tax implications, read SA106: Your Guide to Foreign Income Tax.\nOnce you've submitted your SA1 form, HMRC typically issues a response within 21 days, though this timeframe may be longer during peak periods.",
+      "date": "2025-08-21 12:21:29+00:00",
+      "source": "https://www.debitam.com/what-is-sa1-form/",
+      "url": "https://www.debitam.com/what-is-sa1-form/"
+    },
+    {
+      "title": "Debitam - Online Account Filing Event Videos",
+      "summary": "Debitam is a trading name of Online Account Filing Limited, the company registered in England & Wales under the company registration number: 11422187",
+      "date": "2022-07-27 13:01:55+00:00",
+      "source": "https://www.debitam.com/videos/",
+      "url": "https://www.debitam.com/videos/"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "500-1000",
+    "monthly_web_visits_estimate": "10,000-50,000",
+    "trustpilot_rating": "4.9",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Upendra Rathore",
+    "secondary_targets": [
+      "Eleanor Thompson",
+      "Vishnu Lakhani"
+    ],
+    "general_contact_email": "info@debitam.com",
+    "general_phone": "020 3960 5080",
+    "sales_signals": []
+  },
+  "ai_insights": {
+    "summary": "Debitam is a growing online accounting and tax filing service provider in the UK, serving small businesses and sole traders. The company has established a strong reputation with a 4.9 Trustpilot rating from over 400 reviews.",
+    "growth_stage": "Growth",
+    "funding_stage": "Bootstrapped",
+    "business_health_score": 85,
+    "confidence_score": 90
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 14:09:07.639378",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled",
+      "LLM retry enrichment enabled",
+      "Hypothesis search enabled"
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "person": {
+    "full_name": "",
+    "email": "",
+    "current_company": "",
+    "current_role": "",
+    "location": "",
+    "linkedin_url": "",
+    "linkedin_headline": "",
+    "linkedin_about": "",
+    "professional_summary": "",
+    "experience": [],
+    "education": [],
+    "contact_info": {
+      "email": "",
+      "phone": ""
+    }
+  },
+  "company": {
+    "legal_name": "CAPSITECH IT SERVICES PRIVATE LIMITED",
+    "brand_name": "Capsitech",
+    "website": "https://www.capsitech.com/",
+    "domain": "capsitech.com",
+    "company_number": "U72900RJ2014PTC046083",
+    "GST_number": "08AAFCC7545N1Z4",
+    "status": "Active",
+    "company_type": "Private Limited Company",
+    "incorporation_date": "2014-08-16",
+    "founded": "2014",
+    "previous_names": [],
+    "industry": "Information Technology, Fintech",
+    "sic_codes": "72900",
+    "description": "Capsitech IT Services is a fintech and technology innovation company, building scalable digital platforms for modern businesses. They develop enterprise software, fintech solutions, cloud platforms, and intelligent automation systems.",
+    "headquarters": {
+      "address": "H 298-299 3RD PHASE RIICO INDUSTRIAL AREA BORANADA",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "postal_code": "342012",
+      "country": "India"
+    },
+    "locations": [
+      {
+        "address": "H-299, 3rd Phase, RIICO Industrial Area",
+        "city": "Boranada, Jodhpur",
+        "postal_code": "342012",
+        "country": "India"
+      },
+      {
+        "address": "10 Heath House, Main Road, Sidcup",
+        "city": "London",
+        "postal_code": "DA14 6NJ",
+        "country": "United Kingdom"
+      }
+    ],
+    "contact": {
+      "phone": "63772459878",
+      "email": "hi@tracxn.com",
+      "support_email": "hr@capsitech.com",
+      "website": "https://www.capsitech.com/"
+    },
+    "company_size": "374 employees",
+    "employee_count_estimate": "374",
+    "operating_status": "Active",
+    "linkedin": "https://in.linkedin.com/company/capsitech"
+  },
+  "services": [
+    "Web Development",
+    "Software Development",
+    "Product Management",
+    "Project Management",
+    "Accounting Solutions",
+    "IT Training",
+    "Human Resource Outsourcing",
+    "Fintech Solutions",
+    "Cloud Platforms",
+    "Intelligent Automation Systems"
+  ],
+  "products": [
+    "Jo App (local deals aggregator)"
+  ],
+  "business_model": {
+    "revenue_streams": [
+      "IT Services",
+      "Software Development",
+      "Consulting",
+      "Training",
+      "Outsourcing"
+    ],
+    "pricing_model": "",
+    "customer_segments": [
+      "Startups",
+      "Enterprises",
+      "Retail Industry",
+      "Accounting Sector"
+    ]
+  },
+  "decision_makers": [
+    {
+      "name": "Satya Narayan Jangid",
+      "title": "Managing Director",
+      "linkedin_profile": "https://in.linkedin.com/in/satyajangid",
+      "email": "Not available in search data",
+      "phone": "Not available in search data",
+      "experience": "Managing Director at Capsitech",
+      "education": "Jai Narain Vyas University",
+      "professional_summary": "Experienced Managing Director leading Capsitech's strategic direction and operations.",
+      "source": "LinkedIn profile and company website"
+    },
+    {
+      "name": "Dave Jangid",
+      "title": "Chief Executive Officer",
+      "linkedin_profile": "https://uk.linkedin.com/in/dave-jangid-0666884",
+      "email": "Not available in search data",
+      "phone": "Not available in search data",
+      "experience": "Entrepreneur, investor with over 12 years of experience",
+      "education": "Not available in search data",
+      "professional_summary": "Entrepreneur and investor serving as CEO of Capsitech, focused on innovative change and business growth.",
+      "source": "Company website and LinkedIn profile"
+    },
+    {
+      "name": "Mohit Baheti",
+      "title": "Chief Operating Officer",
+      "linkedin_profile": "https://uk.linkedin.com/in/mohit-baheti-aa664b71",
+      "email": "Not available in search data",
+      "phone": "Not available in search data",
+      "experience": "COO at Capsitech Limited since March 2015, Co-founder & COO at Acting Office",
+      "education": "Not available in search data",
+      "professional_summary": "Experienced planner and leader specializing in optimizing and re-defining processes with technology.",
+      "source": "LinkedIn profile and company website"
+    },
+    {
+      "name": "Mukesh Kumar Jangid",
+      "title": "Chief Technical Officer",
+      "linkedin_profile": "https://in.linkedin.com/in/jangidmukesh",
+      "email": "Not available in search data",
+      "phone": "Not available in search data",
+      "experience": "Leading technical aspects at Capsitech IT services for cloud-based accounting software (Capium)",
+      "education": "Not available in search data",
+      "professional_summary": "Technical leader overseeing all technical aspects and technological resources for Capsitech's products.",
+      "source": "LinkedIn profile and company registration data"
+    },
+    {
+      "name": "Sukhdeo Jangid",
+      "title": "Director",
+      "linkedin_profile": "Not available in search data",
+      "email": "Not available in search data",
+      "phone": "Not available in search data",
+      "experience": "Director at Capsitech IT Services Private Limited",
+      "education": "Not available in search data",
+      "professional_summary": "Director involved in the company's governance and strategic decisions.",
+      "source": "Company registration data"
+    }
+  ],
+  "corporate_structure": {
+    "holding_company": "",
+    "subsidiaries": "Total Time Pay Private Limited (93% ownership)",
+    "related_companies": [
+      "Jo App"
+    ],
+    "investors": "Not found in provided data"
+  },
+  "financial_snapshot": {
+    "revenue": "37.4 Cr INR (FY 2025)",
+    "profit": "Not available in the provided search results",
+    "valuation": "Not available in the provided data",
+    "funding_rounds": "No funding rounds found in the search results",
+    "accounts_type": "Not found",
+    "last_accounts_date": "2025-03-31",
+    "next_accounts_due": "30 September 2026"
+  },
+  "market_intelligence": {
+    "competitors": [
+      {
+        "name": "OR Technologies",
+        "description": "IT services and solutions provider",
+        "website": "https://www.ortechnologies.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Saketh IT Solutions Pvt",
+        "description": "IT consulting and software development services",
+        "website": "https://www.sakethitsolutions.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Brains Infotech",
+        "description": "IT services and solutions provider",
+        "website": "https://www.brainsinfotech.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Mrmmbs Vision Pvt",
+        "description": "IT services and consulting company",
+        "website": "https://www.mrmmbsvision.com/",
+        "source": "ZoomInfo"
+      },
+      {
+        "name": "Zaalima Development",
+        "description": "IT services and consulting firm",
+        "website": "https://zaalimadevelopment.com/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "Accel Frontline",
+        "description": "IT infrastructure management and support services",
+        "website": "https://www.accelfrontline.in/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "Elentec Power India (EPI) Pvt. Ltd.",
+        "description": "Power solutions and IT services",
+        "website": "https://www.elentec.in/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "DynPro",
+        "description": "IT consulting and services",
+        "website": "https://www.dynpro.com/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "Pitney Bowes",
+        "description": "Global technology company offering customer information management and logistics solutions",
+        "website": "https://www.pitneybowes.com/",
+        "source": "AmbitionBox"
+      },
+      {
+        "name": "HyScaler",
+        "description": "IT consulting and digital transformation services",
+        "website": "https://hyscaler.com/",
+        "source": "AmbitionBox"
+      }
+    ],
+    "market_position": "Leading fintech company in Jodhpur, Rajasthan"
+  },
+  "news": [
+    {
+      "title": "CAPSITECH IT SERVICES PRIVATE LIMITED",
+      "summary": "About CAPSITECH IT SERVICES PRIVATE LIMITED CAPSITECH IT SERVICES PRIVATE LIMITED is a Private Limited Company and was incorporated on Aug 16, 2014 in India.\nName Short Description Founded Year Location Current Stage App-based local deals' aggregator 2017 Unfunded View more details on CAPSITECH IT SERVICES PRIVATE LIMITED's profile Principal Business Activity of CAPSITECH IT SERVICES PRIVATE LIMITED The majority of CAPSITECH IT SERVICES PRIVATE LIMITED's turnover comes from Information and communication.\nvat Financials of CAPSITECH IT SERVICES PRIVATE LIMITEDFY 25 Available CAPSITECH IT SERVICES PRIVATE LIMITED generated a revenue of ₹37.4Cr for the financial year ending on Mar 31, 2025.\nLegal cases - Filed by the entity & against the entity Filed in key organisations (NCLT, Supreme court, High court, Sessions court) Entity's basic details Entity's director details Employee Count of CAPSITECH IT SERVICES PRIVATE LIMITED CAPSITECH IT SERVICES PRIVATE LIMITED has an employee count of 374 as on Aug 31, 2025.\nPatents across geographies with status & grant dates Detailed Financials, Shareholding Pattern Legal Cases, Loans & Charges, Related Party Transactions Payment Delays to MSME GST Details, GST Payment History Credit Ratings, Trademarks FAQs about CAPSITECH IT SERVICES PRIVATE LIMITED CAPSITECH IT SERVICES PRIVATE LIMITED was incorporated on Aug 16, 2014.",
+      "date": "2024-06-21 23:15:05.712000+00:00",
+      "source": "https://tracxn.com/d/legal-entities/india/capsitech-it-services-private-limited/__Cye85I1FCu47kr77zbFn57IjwE-fnSd87Nffj2dFBGI",
+      "url": "https://tracxn.com/d/legal-entities/india/capsitech-it-services-private-limited/__Cye85I1FCu47kr77zbFn57IjwE-fnSd87Nffj2dFBGI"
+    },
+    {
+      "title": "Capsitech It Services Private Limited Company Profile - India",
+      "summary": "Capsitech It Services Private Limited is an enterprise located in India, with the main office in Jodhpur.\nThe company operates in the Other Computer Related Services sector.\nThere are currently 374 (2025) people employed by Capsitech It Services Private Limited.\nFrom the latest financial highlights, Capsitech It Services Private Limited reported a net sales revenue increase of 22.75% in 2025.\nThe net profit margin of Capsitech It Services Private Limited decreased by 0.06% in 2025.",
+      "date": "None",
+      "source": "https://www.emis.com/php/company-profile/IN/Capsitech_It_Services_Private_Limited_en_6127008.html",
+      "url": "https://www.emis.com/php/company-profile/IN/Capsitech_It_Services_Private_Limited_en_6127008.html"
+    },
+    {
+      "title": "Capsitech IT Services Private Limited Information",
+      "summary": "Capsitech IT Services Private Limited Capsitech IT Services Private Limited Details CINU72900RJ2014PTC046083Date of Incorporation16 Aug, 2014StatusActiveCompany CategoryCompany limited by SharesCompany Sub-categoryNon-govt companyCompany ClassPrivateBusiness ActivityBusiness ServicesAuthorized Capital9.0 lakhsPaid-up Capital1.0 lakhsPaid-up Capital %11.111112Registrar Office CityJaipurRegistered StateRajasthanRegistration Number46083Registration Date16 Aug, 2014Listing StatusUnlistedAGM last held on29 Sep, 2017Balance Sheet Date31 Mar, 2017 *Ministry of Corporate Affairs, 2019, Company/LLP Data, (Government of India administrative body to govern and regulate corporate affairs through the Companies Act 1956 &amp; 2013 including other allied Acts, Bills and Rules) http://www.mca.gov.in/, Updated as on 04 Dec, 2018.\nPlease Note: Data on this page may not be updated vis-à-vis company's current credentials.",
+      "date": "None",
+      "source": "https://economictimes.indiatimes.com/company/capsitech-it-services-private-limited/U72900RJ2014PTC046083",
+      "url": "https://economictimes.indiatimes.com/company/capsitech-it-services-private-limited/U72900RJ2014PTC046083"
+    },
+    {
+      "title": "Capsitech it services private limited",
+      "summary": "CAPSITECH IT SERVICES PRIVATE LIMITED is a 11.9 Years old company, incorporated on 16 Aug 2014.\nIts authorized share capital is ₹9,00,000.00 ( ₹9.00 Lakhs ) and its paid up capital is ₹2,00,000.00 ( ₹2.00 Lakhs ) As per MCA the main line of business is Computer And Related Activities.\nCAPSITECH IT SERVICES PRIVATE LIMITED's Annual General Meeting (AGM) was last held on 30 Sep 2025 and as per records from Ministry of Corporate Affairs (MCA), its balance sheet was last filed on 31 Mar 2025.\nCAPSITECH IT SERVICES PRIVATE LIMITED's unique Corporate Identification Number (CIN) is U72900RJ2014PTC046083 and its registration number is 46083.\nThe registered address of CAPSITECH IT SERVICES PRIVATE LIMITED is H 298-299 3RD PHASE RIICO INDUSTRIAL AREA BORANADA, NA, JODHPUR, Rajasthan 342012, India.",
+      "date": "None",
+      "source": "https://www.instafinancials.com/company/capsitech-it-services-private-limited-U72900RJ2014PTC046083",
+      "url": "https://www.instafinancials.com/company/capsitech-it-services-private-limited-U72900RJ2014PTC046083"
+    },
+    {
+      "title": "Web Development Company in Jodhpur, Rajasthan",
+      "summary": "Chairman's Address As we embark on a new academic year, Capsitech Institute of Technology stands as a beacon of excellence in imparting industry-oriented technical training to students.\nOur commitment to providing advanced knowledge, innovative skills, and a strong ethical foundation ensures the development of leaders in the ever-evolving landscape of technology.\nOur students are trained by industry leaders who actively work on several international projects, emphasising experiential learning and the practical implementation of theoretical concepts.\nAt Capsitech, we provide students with unparalleled opportunities to engage in live projects that enhance their exposure to real-world problem-solving experiences.\nJoin us at Capsitech Institute of Technology and seize the opportunity to become a leader in the field of technology.",
+      "date": "2019-11-26 14:04:03+00:00",
+      "source": "https://www.capsitech.com/about/",
+      "url": "https://www.capsitech.com/about/"
+    },
+    {
+      "title": "Software Development Company in Jodhpur",
+      "summary": "Future Prospects Anticipating the Business Needs We strive to assimilate the needs the business may face in the future, and we intend to develop and effectuate next-generation solutions that may potentially ensure the smooth progression of the business trajectory.\nOur expertise lies in comprehending the challenges that are faced by businesses of varied domains and developing potential, futuristic solutions.\nOur aspirations of excelling as a one-stop solution to your business requirements are premised upon the idea of ensuring comprehensive growth and development of complementary businesses in different sectors.",
+      "date": "2019-11-26 12:14:06+00:00",
+      "source": "https://www.capsitech.com/",
+      "url": "https://www.capsitech.com/"
+    }
+  ],
+  "online_presence": {
+    "linkedin_followers_estimate": "11,856",
+    "monthly_web_visits_estimate": "38,681",
+    "trustpilot_rating": "",
+    "trustpilot_reviews": "",
+    "app_downloads_estimate": ""
+  },
+  "lead_generation_targets": {
+    "primary_decision_maker": "Satya Narayan Jangid, Managing Director",
+    "secondary_targets": [
+      "Dave Jangid, CEO",
+      "Mohit Baheti, COO",
+      "Mukesh Kumar Jangid, CTO"
+    ],
+    "general_contact_email": "hi@tracxn.com",
+    "general_phone": "63772459878",
+    "sales_signals": []
+  },
+  "ai_insights": {
+    "summary": "Capsitech is a growing IT services and fintech company with a strong presence in Jodhpur, India, and London, UK. The company has shown consistent revenue growth and maintains a workforce of 374 employees. They specialize in developing scalable digital solutions for modern businesses.",
+    "growth_stage": "Growth Stage",
+    "funding_stage": "Bootstrapped/Private",
+    "business_health_score": 78,
+    "confidence_score": 85
+  },
+  "sources": [
+    "tavily",
+    "serpapi",
+    "crawl4ai",
+    "apify",
+    "newspaper3k",
+    "ollama"
+  ],
+  "meta": {
+    "last_updated": "2026-05-18 12:30:25.786965",
+    "data_completeness": 95,
+    "duplicate_flags": [],
+    "notes": [
+      "Advanced decision maker intelligence enabled",
+      "Competitor intelligence enabled",
+      "LinkedIn enrichment enabled",
+      "LLM retry enrichment enabled",
+      "Hypothesis search enabled"
+    ]
+  }
+}
