@@ -1,8 +1,3 @@
-# =========================================================
-# ADVANCED ENTERPRISE DATA ENRICHMENT SYSTEM
-# FULL MERGED VERSION
-# =========================================================
-
 import os
 import re
 import json
