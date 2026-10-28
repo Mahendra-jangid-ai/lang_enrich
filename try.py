@@ -918,15 +918,17 @@ def linkedin_scraper(query):
 
     url = (
         "https://api.apify.com/v2/acts/"
-        "apimaestro~linkedin-profile-scraper/"
+        "johnvc~linkedin-people-search-api/"
         "run-sync-get-dataset-items"
     )
 
     payload = {
 
-        "queries": [query],
+        "company": query,
 
-        "maxPagesPerQuery": 1
+        "maxResults": 10,
+
+        "enrichProfiles": False
     }
 
     headers = {
